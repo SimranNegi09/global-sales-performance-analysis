@@ -1,0 +1,701 @@
+Order_ID,Order_Date,Region,Country,Sales_Channel,Product_Model,Category,Gender,Shoe_Size,Color,Quantity,List_Price_USD,Discount_Percent,Unit_Selling_Price_USD,Revenue_USD,Estimated_Cost_USD,Profit_USD,Customer_Rating,Return_Flag,Payment_Method,Month,Month_Name,Quarter,Month_Year,Is_Returned
+NK001,2025-03-29,Latin America,Brazil,Retail Store,Invincible 3,Running,Women,10,Grey,1,190,10,171.0,171.0,92.34,78.66,5.0,No,UPI,3,Mar,1,2025-03,False
+NK002,2025-08-24,North America,USA,Online,Vomero 18,Running,Women,7,Blue,1,150,5,142.5,0.0,0.0,0.0,4.5,Yes,UPI,8,Aug,3,2025-08,True
+NK003,2025-08-30,Latin America,Argentina,Online,Air Force 1,Lifestyle,Men,8,Blue,3,110,0,110.0,330.0,235.33,94.67,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK004,2025-02-23,Latin America,Argentina,Retail Store,Sabrina 3,Basketball,Men,6,White,2,120,5,114.0,228.0,132.77,95.23,4.5,No,Debit Card,2,Feb,1,2025-02,False
+NK005,2025-07-27,Asia-Pacific,Singapore,Online,Dunk Low,Lifestyle,Unisex,13,Blue,1,145,0,145.0,145.0,84.83,60.17,4.5,No,Credit Card,7,Jul,3,2025-07,False
+NK006,2025-05-19,Latin America,Chile,Retail Store,Sabrina 3,Basketball,Women,5,Red,1,120,15,102.0,102.0,53.15,48.85,3.5,No,Debit Card,5,May,2,2025-05,False
+NK007,2025-08-04,Middle East & Africa,UAE,Retail Store,Metcon 10,Training,Women,7,Black,1,150,5,142.5,142.5,82.96,59.54,4.5,No,PayPal,8,Aug,3,2025-08,False
+NK008,2025-02-11,Asia-Pacific,South Korea,Online,Air Force 1,Lifestyle,Men,11,Black,1,140,10,126.0,126.0,76.29,49.71,4.0,No,Debit Card,2,Feb,1,2025-02,False
+NK009,2025-08-31,North America,Canada,Wholesale,KD 18,Basketball,Women,13,Grey,3,160,5,152.0,456.0,291.74,164.26,5.0,No,UPI,8,Aug,3,2025-08,False
+NK010,2025-10-10,Europe,UK,Retail Store,Giannis Immortality 4,Basketball,Unisex,11,Green,1,90,0,90.0,90.0,63.12,26.88,4.5,No,Debit Card,10,Oct,4,2025-10,False
+NK011,2025-04-23,Asia-Pacific,India,Online,Pegasus 41,Running,Men,11,White,1,140,5,133.0,133.0,87.86,45.14,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK012,2025-05-06,North America,Canada,Retail Store,Structure 25,Running,Women,10,Blue,1,140,5,133.0,133.0,78.34,54.66,4.0,No,Debit Card,5,May,2,2025-05,False
+NK013,2025-05-24,Asia-Pacific,India,Online,Air Max 90,Lifestyle,Women,7,Blue,1,130,25,97.5,97.5,66.62,30.88,4.0,No,Credit Card,5,May,2,2025-05,False
+NK014,2025-12-26,Europe,UK,Retail Store,Free Metcon 6,Training,Women,6,Green,1,130,20,104.0,104.0,64.85,39.15,4.5,No,Credit Card,12,Dec,4,2025-12,False
+NK015,2025-02-06,Middle East & Africa,Egypt,Retail Store,Free Metcon 6,Training,Men,7,Red,1,120,5,114.0,114.0,79.74,34.26,4.5,No,PayPal,2,Feb,1,2025-02,False
+NK016,2025-12-06,Europe,France,Online,Structure 25,Running,Unisex,13,Grey,1,140,0,140.0,140.0,97.96,42.04,4.0,No,Credit Card,12,Dec,4,2025-12,False
+NK017,2025-10-31,Asia-Pacific,South Korea,Online,Air Max 270,Lifestyle,Women,7,Black,1,150,0,150.0,150.0,92.82,57.18,4.0,No,Debit Card,10,Oct,4,2025-10,False
+NK018,2025-09-21,Europe,France,Online,LeBron 22,Basketball,Men,5,Blue,4,220,10,198.0,792.0,488.94,303.06,4.5,No,PayPal,9,Sep,3,2025-09,False
+NK019,2025-06-07,Asia-Pacific,Singapore,Online,Giannis Immortality 4,Basketball,Unisex,13,Grey,1,90,15,76.5,76.5,55.0,21.5,5.0,No,Debit Card,6,Jun,2,2025-06,False
+NK020,2025-06-10,Asia-Pacific,Australia,Online,Pegasus 41,Running,Women,10,White,1,140,5,133.0,0.0,0.0,0.0,5.0,Yes,Credit Card,6,Jun,2,2025-06,True
+NK021,2025-09-30,Asia-Pacific,India,Online,Air Max 270,Lifestyle,Women,11,Grey,1,160,5,152.0,0.0,0.0,0.0,4.0,Yes,Debit Card,9,Sep,3,2025-09,True
+NK022,2025-09-21,Latin America,Colombia,Online,Air Max 270,Lifestyle,Men,7,Blue,2,160,0,160.0,320.0,178.83,141.17,4.5,No,Debit Card,9,Sep,3,2025-09,False
+NK023,2025-06-29,North America,Canada,Retail Store,Cortez,Lifestyle,Men,9,Black,1,120,5,114.0,114.0,59.98,54.02,5.0,No,Credit Card,6,Jun,2,2025-06,False
+NK024,2025-11-04,Asia-Pacific,Singapore,Wholesale,Giannis Immortality 4,Basketball,Women,7,Black,1,100,0,100.0,100.0,65.99,34.01,4.5,No,Debit Card,11,Nov,4,2025-11,False
+NK025,2025-05-09,North America,Canada,Wholesale,Free Metcon 6,Training,Women,10,Black,1,140,0,140.0,140.0,92.08,47.92,4.5,No,Credit Card,5,May,2,2025-05,False
+NK026,2025-03-27,Asia-Pacific,India,Online,Sabrina 3,Basketball,Men,5,Green,1,150,15,127.5,127.5,80.73,46.77,5.0,No,UPI,3,Mar,1,2025-03,False
+NK027,2025-01-23,North America,Canada,Retail Store,Giannis Immortality 4,Basketball,Women,6,Blue,1,100,10,90.0,90.0,54.61,35.39,4.5,No,UPI,1,Jan,1,2025-01,False
+NK028,2025-06-09,Europe,France,Retail Store,Free Metcon 6,Training,Women,7,Blue,1,140,0,140.0,140.0,90.79,49.21,4.0,No,UPI,6,Jun,2,2025-06,False
+NK029,2025-01-12,Middle East & Africa,South Africa,Online,LeBron 22,Basketball,Men,6,Red,1,190,10,171.0,171.0,98.29,72.71,4.5,No,UPI,1,Jan,1,2025-01,False
+NK030,2025-04-24,Latin America,Brazil,Wholesale,Sabrina 3,Basketball,Men,13,Grey,1,130,5,123.5,123.5,81.33,42.17,5.0,No,Debit Card,4,Apr,2,2025-04,False
+NK031,2025-04-06,Asia-Pacific,Singapore,Online,Pegasus 41,Running,Women,11,Black,1,130,15,110.5,110.5,62.99,47.51,4.0,No,Debit Card,4,Apr,2,2025-04,False
+NK032,2025-08-21,Europe,France,Online,Air Max 90,Lifestyle,Men,8,Red,1,150,5,142.5,142.5,75.62,66.88,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK033,2025-02-08,North America,USA,Wholesale,Pegasus 41,Running,Unisex,9,Red,3,140,5,133.0,399.0,269.83,129.17,5.0,No,Debit Card,2,Feb,1,2025-02,False
+NK034,2025-05-21,Middle East & Africa,Egypt,Online,Air Max 270,Lifestyle,Unisex,6,Grey,1,160,10,144.0,144.0,77.3,66.7,4.5,No,Credit Card,5,May,2,2025-05,False
+NK035,2025-10-19,Europe,Italy,Online,Structure 25,Running,Women,10,Red,3,140,5,133.0,399.0,254.71,144.29,4.0,No,Credit Card,10,Oct,4,2025-10,False
+NK036,2025-12-27,Europe,UK,Retail Store,KD 18,Basketball,Men,13,Blue,2,160,10,144.0,288.0,193.95,94.05,4.0,No,PayPal,12,Dec,4,2025-12,False
+NK037,2025-08-01,Europe,France,Wholesale,Vomero 18,Running,Men,7,Blue,1,170,25,127.5,127.5,89.02,38.48,3.5,No,Credit Card,8,Aug,3,2025-08,False
+NK038,2025-01-12,Asia-Pacific,Japan,Wholesale,Air Max 90,Lifestyle,Unisex,12,Blue,1,140,15,119.0,119.0,79.42,39.58,4.5,No,Credit Card,1,Jan,1,2025-01,False
+NK039,2025-05-25,Europe,UK,Online,Dunk Low,Lifestyle,Unisex,7,Grey,1,125,5,118.75,118.75,67.92,50.83,5.0,No,Debit Card,5,May,2,2025-05,False
+NK040,2025-10-16,Asia-Pacific,India,Retail Store,Pegasus 41,Running,Unisex,9,White,1,160,20,128.0,128.0,67.23,60.77,4.5,No,PayPal,10,Oct,4,2025-10,False
+NK041,2025-01-06,Asia-Pacific,South Korea,Retail Store,LeBron 22,Basketball,Unisex,10,Red,1,190,5,180.5,180.5,95.9,84.6,4.5,No,UPI,1,Jan,1,2025-01,False
+NK042,2025-07-24,Asia-Pacific,South Korea,Online,Pegasus 41,Running,Women,6,Blue,1,150,10,135.0,135.0,95.96,39.04,4.0,No,Credit Card,7,Jul,3,2025-07,False
+NK043,2025-08-10,Europe,France,Online,Free Metcon 6,Training,Men,11,Grey,2,130,5,123.5,247.0,176.26,70.74,4.5,No,UPI,8,Aug,3,2025-08,False
+NK044,2025-12-13,Middle East & Africa,South Africa,Wholesale,Air Force 1,Lifestyle,Men,10,Black,1,120,5,114.0,114.0,68.22,45.78,5.0,No,Debit Card,12,Dec,4,2025-12,False
+NK045,2025-12-06,Europe,Spain,Wholesale,Invincible 3,Running,Women,7,Black,3,190,0,190.0,570.0,352.5,217.5,4.5,No,UPI,12,Dec,4,2025-12,False
+NK046,2025-04-03,North America,Canada,Retail Store,LeBron 22,Basketball,Men,9,Grey,3,200,5,190.0,570.0,350.43,219.57,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK047,2025-08-06,North America,USA,Online,Vomero 18,Running,Men,13,Green,3,150,5,142.5,427.5,233.31,194.19,4.0,No,PayPal,8,Aug,3,2025-08,False
+NK048,2025-07-26,Europe,Germany,Retail Store,Cortez,Lifestyle,Women,6,Grey,2,100,15,85.0,170.0,94.67,75.33,3.5,No,Credit Card,7,Jul,3,2025-07,False
+NK049,2025-10-21,Asia-Pacific,Australia,Online,Air Force 1,Lifestyle,Men,11,Grey,1,140,15,119.0,119.0,82.52,36.48,4.0,No,UPI,10,Oct,4,2025-10,False
+NK050,2025-03-08,North America,USA,Retail Store,Air Max 90,Lifestyle,Men,10,White,1,130,5,123.5,123.5,75.93,47.57,4.5,No,UPI,3,Mar,1,2025-03,False
+NK051,2025-11-11,North America,USA,Online,Giannis Immortality 4,Basketball,Unisex,9,Green,2,110,20,88.0,176.0,100.12,75.88,4.0,No,Debit Card,11,Nov,4,2025-11,False
+NK052,2025-08-31,Latin America,Chile,Online,Dunk Low,Lifestyle,Unisex,10,White,3,145,0,145.0,435.0,233.18,201.82,4.5,No,PayPal,8,Aug,3,2025-08,False
+NK053,2025-01-26,Latin America,Chile,Retail Store,Cortez,Lifestyle,Men,10,Blue,3,120,10,108.0,324.0,204.56,119.44,4.5,No,Debit Card,1,Jan,1,2025-01,False
+NK054,2025-12-22,Europe,Spain,Retail Store,Air Max 90,Lifestyle,Men,6,White,1,150,5,142.5,142.5,78.5,64.0,4.5,No,Debit Card,12,Dec,4,2025-12,False
+NK055,2025-02-07,Europe,France,Online,Air Max 270,Lifestyle,Unisex,6,Green,1,150,0,150.0,150.0,81.5,68.5,5.0,No,PayPal,2,Feb,1,2025-02,False
+NK056,2025-08-17,North America,Canada,Retail Store,Air Max 270,Lifestyle,Unisex,9,Grey,2,180,0,180.0,360.0,246.81,113.19,4.0,No,UPI,8,Aug,3,2025-08,False
+NK057,2025-10-15,Europe,France,Retail Store,KD 18,Basketball,Women,5,Black,1,150,15,127.5,127.5,84.5,43.0,4.5,No,Debit Card,10,Oct,4,2025-10,False
+NK058,2025-06-28,Europe,Germany,Online,Air Max 270,Lifestyle,Women,5,Blue,1,160,10,144.0,144.0,84.47,59.53,4.5,No,UPI,6,Jun,2,2025-06,False
+NK059,2025-11-18,North America,Canada,Retail Store,Sabrina 3,Basketball,Women,10,Green,1,140,15,119.0,119.0,66.75,52.25,4.5,No,Debit Card,11,Nov,4,2025-11,False
+NK060,2025-06-22,North America,Canada,Online,Sabrina 3,Basketball,Women,8,Blue,1,140,10,126.0,126.0,75.83,50.17,4.5,No,UPI,6,Jun,2,2025-06,False
+NK061,2025-12-29,North America,Canada,Retail Store,Dunk Low,Lifestyle,Women,13,Black,1,145,5,137.75,137.75,79.56,58.19,3.5,No,PayPal,12,Dec,4,2025-12,False
+NK062,2025-04-02,North America,Mexico,Retail Store,Giannis Immortality 4,Basketball,Women,12,Black,2,100,20,80.0,160.0,88.08,71.92,5.0,No,Debit Card,4,Apr,2,2025-04,False
+NK063,2025-02-24,North America,Mexico,Retail Store,KD 18,Basketball,Men,13,Grey,3,160,0,160.0,480.0,333.11,146.89,4.5,No,UPI,2,Feb,1,2025-02,False
+NK064,2025-07-29,Asia-Pacific,Australia,Retail Store,Pegasus 41,Running,Women,7,Green,3,140,10,126.0,378.0,222.74,155.26,4.0,No,Debit Card,7,Jul,3,2025-07,False
+NK065,2025-02-18,North America,Mexico,Wholesale,Vomero 18,Running,Women,8,Green,2,170,10,153.0,306.0,159.92,146.08,5.0,No,Debit Card,2,Feb,1,2025-02,False
+NK066,2025-11-14,Europe,Spain,Retail Store,Structure 25,Running,Men,12,Red,1,150,5,142.5,142.5,96.89,45.61,3.5,No,UPI,11,Nov,4,2025-11,False
+NK067,2025-09-21,Europe,Spain,Online,Cortez,Lifestyle,Women,7,Green,1,90,5,85.5,85.5,47.11,38.39,4.5,No,UPI,9,Sep,3,2025-09,False
+NK068,2025-09-12,North America,USA,Retail Store,Invincible 3,Running,Men,9,Red,1,190,5,180.5,180.5,103.03,77.47,5.0,No,UPI,9,Sep,3,2025-09,False
+NK069,2025-06-14,North America,Canada,Online,Structure 25,Running,Men,6,White,2,160,10,144.0,288.0,205.21,82.79,4.0,No,Credit Card,6,Jun,2,2025-06,False
+NK070,2025-01-11,North America,Canada,Retail Store,Air Force 1,Lifestyle,Men,11,Blue,3,130,10,117.0,351.0,239.9,111.1,5.0,No,Credit Card,1,Jan,1,2025-01,False
+NK071,2025-07-21,Europe,France,Wholesale,KD 18,Basketball,Women,5,White,2,160,20,128.0,256.0,140.29,115.71,3.5,No,Credit Card,7,Jul,3,2025-07,False
+NK072,2025-01-29,Asia-Pacific,Singapore,Retail Store,Structure 25,Running,Women,10,White,2,130,0,130.0,260.0,186.39,73.61,4.5,No,UPI,1,Jan,1,2025-01,False
+NK073,2025-12-08,North America,USA,Online,Metcon 10,Training,Men,12,White,2,140,10,126.0,252.0,136.41,115.59,4.5,No,UPI,12,Dec,4,2025-12,False
+NK074,2025-11-06,Asia-Pacific,Australia,Online,Invincible 3,Running,Men,7,White,1,190,5,180.5,180.5,95.56,84.94,3.5,No,UPI,11,Nov,4,2025-11,False
+NK075,2025-03-10,Europe,UK,Online,LeBron 22,Basketball,Women,7,Red,1,200,20,160.0,160.0,113.73,46.27,5.0,No,UPI,3,Mar,1,2025-03,False
+NK076,2025-05-09,Asia-Pacific,India,Retail Store,LeBron 22,Basketball,Women,13,Red,1,200,10,180.0,180.0,106.26,73.74,5.0,No,UPI,5,May,2,2025-05,False
+NK077,2025-01-17,Middle East & Africa,Saudi Arabia,Retail Store,Giannis Immortality 4,Basketball,Women,12,Red,1,90,5,85.5,85.5,60.15,25.35,4.5,No,UPI,1,Jan,1,2025-01,False
+NK078,2025-12-31,Asia-Pacific,Japan,Online,Invincible 3,Running,Women,11,Black,2,170,20,136.0,272.0,179.15,92.85,4.0,No,UPI,12,Dec,4,2025-12,False
+NK079,2025-03-23,North America,Mexico,Retail Store,Free Metcon 6,Training,Unisex,6,Red,1,120,0,120.0,120.0,72.52,47.48,5.0,No,Credit Card,3,Mar,1,2025-03,False
+NK080,2025-07-02,Europe,Italy,Retail Store,Cortez,Lifestyle,Unisex,8,Grey,2,110,0,110.0,220.0,129.35,90.65,4.5,No,UPI,7,Jul,3,2025-07,False
+NK081,2025-09-08,Latin America,Chile,Online,Air Max 90,Lifestyle,Men,7,Red,1,150,5,142.5,142.5,102.32,40.18,5.0,No,Debit Card,9,Sep,3,2025-09,False
+NK082,2025-09-23,North America,Canada,Online,KD 18,Basketball,Women,9,Black,3,160,10,144.0,432.0,309.66,122.34,4.0,No,Credit Card,9,Sep,3,2025-09,False
+NK083,2025-03-14,North America,Mexico,Online,KD 18,Basketball,Women,9,Grey,1,160,5,152.0,152.0,79.58,72.42,4.0,No,UPI,3,Mar,1,2025-03,False
+NK084,2025-07-18,Latin America,Colombia,Online,Invincible 3,Running,Men,10,Grey,4,180,20,144.0,0.0,0.0,0.0,5.0,Yes,Credit Card,7,Jul,3,2025-07,True
+NK085,2025-02-23,North America,Mexico,Online,LeBron 22,Basketball,Women,8,White,2,190,25,142.5,285.0,193.84,91.16,4.5,No,Credit Card,2,Feb,1,2025-02,False
+NK086,2025-03-30,Asia-Pacific,India,Wholesale,Air Force 1,Lifestyle,Unisex,13,Red,1,120,15,102.0,102.0,57.61,44.39,4.0,No,Debit Card,3,Mar,1,2025-03,False
+NK087,2025-08-14,Middle East & Africa,Egypt,Online,Air Force 1,Lifestyle,Men,9,White,3,110,5,104.5,313.5,209.12,104.38,4.5,No,PayPal,8,Aug,3,2025-08,False
+NK088,2025-12-15,Latin America,Chile,Retail Store,Sabrina 3,Basketball,Men,6,Red,1,130,10,117.0,0.0,0.0,0.0,5.0,Yes,UPI,12,Dec,4,2025-12,True
+NK089,2025-02-14,Latin America,Brazil,Wholesale,Structure 25,Running,Men,10,Blue,1,130,0,130.0,130.0,76.28,53.72,4.0,No,PayPal,2,Feb,1,2025-02,False
+NK090,2025-03-23,Europe,Italy,Retail Store,Free Metcon 6,Training,Women,11,White,1,130,0,130.0,130.0,86.93,43.07,4.0,No,UPI,3,Mar,1,2025-03,False
+NK091,2025-11-22,Asia-Pacific,Australia,Retail Store,Air Max 90,Lifestyle,Women,6,Blue,1,130,10,117.0,117.0,79.09,37.91,4.5,No,PayPal,11,Nov,4,2025-11,False
+NK092,2025-07-12,Latin America,Argentina,Retail Store,Sabrina 3,Basketball,Men,6,Green,1,130,0,130.0,130.0,86.01,43.99,5.0,No,PayPal,7,Jul,3,2025-07,False
+NK093,2025-03-20,Asia-Pacific,Australia,Online,Dunk Low,Lifestyle,Men,6,Green,1,125,0,125.0,125.0,73.09,51.91,4.5,No,PayPal,3,Mar,1,2025-03,False
+NK094,2025-03-25,Europe,France,Online,Air Force 1,Lifestyle,Unisex,12,Blue,1,130,15,110.5,110.5,59.28,51.22,4.5,No,PayPal,3,Mar,1,2025-03,False
+NK095,2025-01-15,Asia-Pacific,Japan,Online,Pegasus 41,Running,Men,13,Blue,1,130,10,117.0,117.0,68.35,48.65,4.5,No,Debit Card,1,Jan,1,2025-01,False
+NK096,2025-02-19,Middle East & Africa,Egypt,Online,LeBron 22,Basketball,Women,9,Blue,1,190,0,190.0,190.0,116.04,73.96,5.0,No,Credit Card,2,Feb,1,2025-02,False
+NK097,2025-11-15,Europe,Spain,Online,Cortez,Lifestyle,Women,5,Grey,1,90,10,81.0,81.0,51.17,29.83,3.5,No,Debit Card,11,Nov,4,2025-11,False
+NK098,2025-09-24,Middle East & Africa,Saudi Arabia,Retail Store,KD 18,Basketball,Men,13,Green,2,160,15,136.0,272.0,183.86,88.14,4.0,No,Debit Card,9,Sep,3,2025-09,False
+NK099,2025-03-18,North America,Canada,Online,Vomero 18,Running,Men,11,White,1,160,5,152.0,152.0,81.71,70.29,4.5,No,UPI,3,Mar,1,2025-03,False
+NK100,2025-03-14,North America,Mexico,Retail Store,Air Max 270,Lifestyle,Men,12,White,3,160,0,160.0,480.0,306.7,173.3,4.5,No,UPI,3,Mar,1,2025-03,False
+NK101,2025-01-03,Latin America,Chile,Retail Store,Cortez,Lifestyle,Women,6,Green,1,100,10,90.0,90.0,60.91,29.09,4.5,No,UPI,1,Jan,1,2025-01,False
+NK102,2025-07-02,Latin America,Colombia,Retail Store,Metcon 10,Training,Women,6,Red,1,170,5,161.5,161.5,109.49,52.01,4.0,No,PayPal,7,Jul,3,2025-07,False
+NK103,2025-12-19,Europe,Italy,Online,Metcon 10,Training,Unisex,12,Blue,1,150,15,127.5,127.5,67.08,60.42,4.5,No,UPI,12,Dec,4,2025-12,False
+NK104,2025-12-20,Middle East & Africa,Egypt,Retail Store,KD 18,Basketball,Women,8,Green,1,150,10,135.0,135.0,70.99,64.01,4.5,No,PayPal,12,Dec,4,2025-12,False
+NK105,2025-10-09,Middle East & Africa,Egypt,Online,Free Metcon 6,Training,Women,6,Grey,2,140,10,126.0,252.0,142.92,109.08,5.0,No,Debit Card,10,Oct,4,2025-10,False
+NK106,2025-11-22,North America,USA,Online,KD 18,Basketball,Unisex,6,Red,1,180,10,162.0,162.0,103.45,58.55,4.5,No,Credit Card,11,Nov,4,2025-11,False
+NK107,2025-04-03,Asia-Pacific,Japan,Retail Store,Structure 25,Running,Men,9,Blue,1,140,20,112.0,112.0,65.65,46.35,4.5,No,PayPal,4,Apr,2,2025-04,False
+NK108,2025-11-01,North America,USA,Retail Store,Metcon 10,Training,Women,10,Blue,1,140,10,126.0,126.0,78.96,47.04,4.5,No,Credit Card,11,Nov,4,2025-11,False
+NK109,2025-09-02,North America,Mexico,Online,KD 18,Basketball,Women,8,Grey,2,160,0,160.0,320.0,180.78,139.22,4.5,No,UPI,9,Sep,3,2025-09,False
+NK110,2025-10-21,Middle East & Africa,Egypt,Online,KD 18,Basketball,Men,8,White,1,150,10,135.0,135.0,84.29,50.71,4.0,No,UPI,10,Oct,4,2025-10,False
+NK111,2025-10-17,North America,USA,Retail Store,Air Max 270,Lifestyle,Unisex,6,White,2,170,10,153.0,306.0,169.96,136.04,4.5,No,PayPal,10,Oct,4,2025-10,False
+NK112,2025-05-22,Asia-Pacific,Singapore,Retail Store,Structure 25,Running,Women,6,White,2,130,15,110.5,221.0,124.45,96.55,4.5,No,Credit Card,5,May,2,2025-05,False
+NK113,2025-04-08,Europe,Spain,Retail Store,Air Max 90,Lifestyle,Unisex,7,Green,1,120,0,120.0,120.0,65.02,54.98,5.0,No,PayPal,4,Apr,2,2025-04,False
+NK114,2025-03-17,Europe,Germany,Online,Invincible 3,Running,Women,13,Black,1,200,10,180.0,180.0,105.29,74.71,4.0,No,Debit Card,3,Mar,1,2025-03,False
+NK115,2025-03-26,North America,Canada,Wholesale,Giannis Immortality 4,Basketball,Unisex,9,Grey,2,110,10,99.0,198.0,122.78,75.22,4.5,No,Debit Card,3,Mar,1,2025-03,False
+NK116,2025-12-30,Europe,France,Retail Store,Air Max 270,Lifestyle,Unisex,11,Grey,2,160,10,144.0,288.0,196.59,91.41,5.0,No,Credit Card,12,Dec,4,2025-12,False
+NK117,2025-02-21,Europe,France,Wholesale,LeBron 22,Basketball,Women,12,White,1,210,5,199.5,199.5,123.13,76.37,4.5,No,UPI,2,Feb,1,2025-02,False
+NK118,2025-06-08,Middle East & Africa,South Africa,Online,Air Max 90,Lifestyle,Women,12,Blue,2,150,0,150.0,300.0,166.89,133.11,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK119,2025-10-04,Asia-Pacific,South Korea,Online,Vomero 18,Running,Men,12,White,1,160,0,160.0,160.0,103.62,56.38,4.5,No,PayPal,10,Oct,4,2025-10,False
+NK120,2025-06-16,Europe,Germany,Retail Store,Structure 25,Running,Women,5,White,2,150,5,142.5,285.0,196.72,88.28,4.0,No,Credit Card,6,Jun,2,2025-06,False
+NK121,2025-06-09,Latin America,Chile,Online,Giannis Immortality 4,Basketball,Men,13,Green,1,80,0,80.0,80.0,45.28,34.72,4.0,No,Credit Card,6,Jun,2,2025-06,False
+NK122,2025-10-07,Asia-Pacific,South Korea,Retail Store,Invincible 3,Running,Women,10,White,2,200,10,180.0,360.0,188.34,171.66,5.0,No,UPI,10,Oct,4,2025-10,False
+NK123,2025-07-15,North America,USA,Retail Store,Dunk Low,Lifestyle,Men,9,Blue,1,125,5,118.75,118.75,69.91,48.84,4.0,No,Debit Card,7,Jul,3,2025-07,False
+NK124,2025-08-03,Asia-Pacific,South Korea,Retail Store,Vomero 18,Running,Women,6,Green,1,160,5,152.0,152.0,99.39,52.61,4.5,No,UPI,8,Aug,3,2025-08,False
+NK125,2025-02-24,Middle East & Africa,Egypt,Online,Free Metcon 6,Training,Men,12,Blue,1,120,0,120.0,120.0,72.54,47.46,4.5,No,Debit Card,2,Feb,1,2025-02,False
+NK126,2025-10-13,Europe,Spain,Online,Invincible 3,Running,Men,12,Black,2,190,15,161.5,323.0,183.7,139.3,4.5,No,Debit Card,10,Oct,4,2025-10,False
+NK127,2025-09-15,Asia-Pacific,Australia,Online,Dunk Low,Lifestyle,Women,7,Blue,1,115,5,109.25,109.25,65.13,44.12,4.0,No,PayPal,9,Sep,3,2025-09,False
+NK128,2025-01-12,Europe,UK,Online,Air Max 270,Lifestyle,Unisex,7,Green,1,160,10,144.0,144.0,86.14,57.86,5.0,No,PayPal,1,Jan,1,2025-01,False
+NK129,2025-05-10,North America,Mexico,Online,Vomero 18,Running,Unisex,13,White,1,180,0,180.0,180.0,99.85,80.15,4.0,No,PayPal,5,May,2,2025-05,False
+NK130,2025-01-25,Asia-Pacific,Singapore,Online,Dunk Low,Lifestyle,Men,6,Blue,1,145,15,123.25,123.25,87.58,35.67,4.0,No,PayPal,1,Jan,1,2025-01,False
+NK131,2025-11-12,Asia-Pacific,Singapore,Online,Giannis Immortality 4,Basketball,Women,11,Red,1,90,5,85.5,85.5,51.98,33.52,4.5,No,UPI,11,Nov,4,2025-11,False
+NK132,2025-03-24,Europe,UK,Online,Air Max 270,Lifestyle,Men,7,Blue,2,160,15,136.0,272.0,157.62,114.38,4.5,No,UPI,3,Mar,1,2025-03,False
+NK133,2025-06-27,Latin America,Chile,Retail Store,Structure 25,Running,Men,7,Red,2,140,0,140.0,280.0,193.09,86.91,4.5,No,UPI,6,Jun,2,2025-06,False
+NK134,2025-08-18,Europe,Spain,Retail Store,Pegasus 41,Running,Men,11,Grey,1,140,0,140.0,0.0,0.0,0.0,4.0,Yes,Credit Card,8,Aug,3,2025-08,True
+NK135,2025-07-07,Asia-Pacific,Australia,Online,Air Max 270,Lifestyle,Unisex,11,Grey,1,170,25,127.5,127.5,69.1,58.4,4.5,No,Credit Card,7,Jul,3,2025-07,False
+NK136,2025-01-21,North America,Canada,Wholesale,Dunk Low,Lifestyle,Unisex,5,Black,1,125,5,118.75,118.75,72.66,46.09,5.0,No,UPI,1,Jan,1,2025-01,False
+NK137,2025-09-21,North America,Mexico,Online,Sabrina 3,Basketball,Men,5,Blue,2,130,15,110.5,221.0,136.82,84.18,4.5,No,PayPal,9,Sep,3,2025-09,False
+NK138,2025-04-19,Asia-Pacific,Australia,Online,Pegasus 41,Running,Men,9,Blue,1,150,0,150.0,150.0,100.39,49.61,4.5,No,Debit Card,4,Apr,2,2025-04,False
+NK139,2025-09-18,Middle East & Africa,UAE,Retail Store,KD 18,Basketball,Women,10,Blue,1,160,10,144.0,0.0,0.0,0.0,5.0,Yes,UPI,9,Sep,3,2025-09,True
+NK140,2025-04-15,Asia-Pacific,India,Wholesale,Structure 25,Running,Women,6,White,1,140,0,140.0,140.0,80.1,59.9,5.0,No,Credit Card,4,Apr,2,2025-04,False
+NK141,2025-07-02,North America,USA,Online,Structure 25,Running,Women,13,White,1,140,0,140.0,140.0,75.9,64.1,5.0,No,Credit Card,7,Jul,3,2025-07,False
+NK142,2025-04-29,Asia-Pacific,India,Online,Pegasus 41,Running,Women,9,Grey,1,130,10,117.0,117.0,79.93,37.07,4.0,No,PayPal,4,Apr,2,2025-04,False
+NK143,2025-12-11,Asia-Pacific,South Korea,Online,KD 18,Basketball,Men,9,Blue,1,160,0,160.0,160.0,107.3,52.7,5.0,No,Credit Card,12,Dec,4,2025-12,False
+NK144,2025-07-10,North America,Canada,Retail Store,Air Force 1,Lifestyle,Women,11,Blue,1,140,10,126.0,126.0,78.33,47.67,4.5,No,UPI,7,Jul,3,2025-07,False
+NK145,2025-08-12,North America,Canada,Retail Store,Cortez,Lifestyle,Men,9,Green,3,90,15,76.5,229.5,132.1,97.4,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK146,2025-07-28,Europe,UK,Wholesale,Metcon 10,Training,Men,7,Green,2,150,0,150.0,300.0,158.12,141.88,5.0,No,PayPal,7,Jul,3,2025-07,False
+NK147,2025-11-06,Europe,Spain,Online,Dunk Low,Lifestyle,Men,13,Grey,1,125,20,100.0,100.0,59.83,40.17,4.0,No,UPI,11,Nov,4,2025-11,False
+NK148,2025-09-11,Europe,Germany,Retail Store,Dunk Low,Lifestyle,Women,7,Black,1,135,10,121.5,121.5,76.8,44.7,4.5,No,Credit Card,9,Sep,3,2025-09,False
+NK149,2025-06-22,Europe,Italy,Online,Structure 25,Running,Women,5,White,2,160,5,152.0,304.0,189.71,114.29,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK150,2025-07-17,Asia-Pacific,South Korea,Retail Store,Giannis Immortality 4,Basketball,Men,10,Green,1,90,5,85.5,0.0,0.0,0.0,4.5,Yes,UPI,7,Jul,3,2025-07,True
+NK151,2025-12-16,Asia-Pacific,Singapore,Retail Store,Free Metcon 6,Training,Unisex,7,Grey,1,140,25,105.0,105.0,69.31,35.69,3.5,No,PayPal,12,Dec,4,2025-12,False
+NK152,2025-12-22,Latin America,Argentina,Retail Store,Free Metcon 6,Training,Men,11,White,1,140,10,126.0,126.0,89.14,36.86,5.0,No,UPI,12,Dec,4,2025-12,False
+NK153,2025-02-05,Asia-Pacific,Singapore,Online,Dunk Low,Lifestyle,Men,10,Blue,1,125,0,125.0,125.0,88.07,36.93,4.0,No,Credit Card,2,Feb,1,2025-02,False
+NK154,2025-11-25,North America,USA,Retail Store,KD 18,Basketball,Men,6,White,2,180,10,162.0,324.0,185.86,138.14,4.5,No,Credit Card,11,Nov,4,2025-11,False
+NK155,2025-07-18,Europe,Spain,Online,Air Max 270,Lifestyle,Men,13,Grey,1,160,15,136.0,136.0,74.2,61.8,5.0,No,Credit Card,7,Jul,3,2025-07,False
+NK156,2025-06-10,Asia-Pacific,Japan,Retail Store,Air Force 1,Lifestyle,Men,13,Green,4,110,10,99.0,396.0,254.12,141.88,4.5,No,Debit Card,6,Jun,2,2025-06,False
+NK157,2025-07-17,North America,Canada,Retail Store,Sabrina 3,Basketball,Men,6,Green,2,130,0,130.0,260.0,163.46,96.54,5.0,No,UPI,7,Jul,3,2025-07,False
+NK158,2025-02-28,Latin America,Argentina,Wholesale,Air Max 270,Lifestyle,Women,5,Grey,2,180,5,171.0,342.0,185.5,156.5,4.0,No,Credit Card,2,Feb,1,2025-02,False
+NK159,2025-06-17,Asia-Pacific,Japan,Retail Store,KD 18,Basketball,Women,6,Black,1,170,10,153.0,153.0,87.38,65.62,4.0,No,Credit Card,6,Jun,2,2025-06,False
+NK160,2025-07-16,Europe,France,Online,Giannis Immortality 4,Basketball,Men,12,Blue,1,110,5,104.5,104.5,62.65,41.85,5.0,No,UPI,7,Jul,3,2025-07,False
+NK161,2025-09-25,North America,Canada,Online,Pegasus 41,Running,Unisex,7,Red,1,160,10,144.0,144.0,94.92,49.08,4.0,No,PayPal,9,Sep,3,2025-09,False
+NK162,2025-09-03,Asia-Pacific,Australia,Wholesale,Air Max 90,Lifestyle,Unisex,11,Black,2,140,15,119.0,238.0,138.67,99.33,4.5,No,PayPal,9,Sep,3,2025-09,False
+NK163,2025-10-10,Asia-Pacific,Singapore,Retail Store,Pegasus 41,Running,Women,13,Blue,1,140,20,112.0,112.0,61.87,50.13,5.0,No,Credit Card,10,Oct,4,2025-10,False
+NK164,2025-12-30,Middle East & Africa,Egypt,Online,Pegasus 41,Running,Men,10,Red,1,130,15,110.5,110.5,73.16,37.34,5.0,No,Debit Card,12,Dec,4,2025-12,False
+NK165,2025-12-04,North America,Canada,Retail Store,Pegasus 41,Running,Women,10,Black,1,130,5,123.5,123.5,72.81,50.69,5.0,No,Debit Card,12,Dec,4,2025-12,False
+NK166,2025-06-05,North America,Mexico,Online,Cortez,Lifestyle,Unisex,5,Red,1,110,15,93.5,93.5,61.45,32.05,4.5,No,Debit Card,6,Jun,2,2025-06,False
+NK167,2025-02-08,Europe,UK,Retail Store,Vomero 18,Running,Women,6,Red,2,150,5,142.5,285.0,201.68,83.32,5.0,No,UPI,2,Feb,1,2025-02,False
+NK168,2025-02-04,North America,Mexico,Wholesale,Invincible 3,Running,Men,8,Black,2,200,10,180.0,360.0,226.56,133.44,3.5,No,UPI,2,Feb,1,2025-02,False
+NK169,2025-07-20,Middle East & Africa,Egypt,Online,Free Metcon 6,Training,Unisex,13,Red,3,120,5,114.0,342.0,229.41,112.59,4.5,No,Debit Card,7,Jul,3,2025-07,False
+NK170,2025-09-22,Latin America,Colombia,Retail Store,Air Force 1,Lifestyle,Men,9,Red,1,140,0,140.0,140.0,80.17,59.83,4.0,No,UPI,9,Sep,3,2025-09,False
+NK171,2025-05-07,North America,Mexico,Online,Metcon 10,Training,Men,5,Green,1,150,10,135.0,135.0,94.29,40.71,4.5,No,Credit Card,5,May,2,2025-05,False
+NK172,2025-07-20,Latin America,Brazil,Online,KD 18,Basketball,Unisex,6,Black,1,170,5,161.5,161.5,99.75,61.75,3.5,No,UPI,7,Jul,3,2025-07,False
+NK173,2025-01-21,North America,Mexico,Online,Structure 25,Running,Women,7,Blue,1,130,5,123.5,123.5,68.43,55.07,4.5,No,Credit Card,1,Jan,1,2025-01,False
+NK174,2025-12-27,Europe,UK,Online,Dunk Low,Lifestyle,Men,10,Black,1,145,5,137.75,137.75,84.66,53.09,3.5,No,Credit Card,12,Dec,4,2025-12,False
+NK175,2025-12-21,North America,Canada,Retail Store,Vomero 18,Running,Men,12,Black,1,160,10,144.0,144.0,88.5,55.5,4.5,No,Credit Card,12,Dec,4,2025-12,False
+NK176,2025-07-11,North America,Canada,Online,KD 18,Basketball,Men,13,Black,1,160,0,160.0,160.0,108.88,51.12,5.0,No,Credit Card,7,Jul,3,2025-07,False
+NK177,2025-11-29,North America,Mexico,Online,Air Max 90,Lifestyle,Men,7,Blue,2,120,0,120.0,240.0,126.95,113.05,5.0,No,UPI,11,Nov,4,2025-11,False
+NK178,2025-06-02,Asia-Pacific,Australia,Online,Sabrina 3,Basketball,Women,11,Black,3,140,15,119.0,357.0,237.15,119.85,4.5,No,UPI,6,Jun,2,2025-06,False
+NK179,2025-03-25,Asia-Pacific,India,Online,Air Max 270,Lifestyle,Men,13,White,1,160,5,152.0,152.0,91.78,60.22,4.5,No,UPI,3,Mar,1,2025-03,False
+NK180,2025-01-28,Latin America,Chile,Retail Store,Air Max 270,Lifestyle,Men,6,Grey,3,180,10,162.0,486.0,312.26,173.74,3.5,No,Debit Card,1,Jan,1,2025-01,False
+NK181,2025-12-23,Latin America,Brazil,Retail Store,Structure 25,Running,Men,13,Black,1,140,5,133.0,133.0,84.51,48.49,3.5,No,Debit Card,12,Dec,4,2025-12,False
+NK182,2025-12-20,Europe,France,Online,LeBron 22,Basketball,Women,13,Red,2,190,5,180.5,361.0,219.95,141.05,4.5,No,Debit Card,12,Dec,4,2025-12,False
+NK183,2025-02-25,North America,USA,Online,Metcon 10,Training,Men,6,Blue,1,150,0,150.0,150.0,82.28,67.72,3.5,No,Debit Card,2,Feb,1,2025-02,False
+NK184,2025-07-23,Europe,UK,Online,LeBron 22,Basketball,Men,6,Grey,1,220,15,187.0,187.0,128.72,58.28,4.0,No,PayPal,7,Jul,3,2025-07,False
+NK185,2025-02-20,Middle East & Africa,Saudi Arabia,Online,Air Force 1,Lifestyle,Men,9,Green,3,120,5,114.0,342.0,206.17,135.83,4.0,No,UPI,2,Feb,1,2025-02,False
+NK186,2025-03-18,Middle East & Africa,South Africa,Wholesale,Pegasus 41,Running,Men,10,Blue,2,160,10,144.0,288.0,206.44,81.56,5.0,No,Debit Card,3,Mar,1,2025-03,False
+NK187,2025-04-19,Europe,France,Online,Sabrina 3,Basketball,Women,9,Blue,1,130,15,110.5,110.5,75.73,34.77,5.0,No,Debit Card,4,Apr,2,2025-04,False
+NK188,2025-09-30,Asia-Pacific,Australia,Wholesale,Air Max 90,Lifestyle,Women,13,White,2,130,0,130.0,260.0,145.98,114.02,4.5,No,UPI,9,Sep,3,2025-09,False
+NK189,2025-12-20,North America,Mexico,Online,Structure 25,Running,Women,10,Grey,1,140,20,112.0,112.0,71.52,40.48,4.5,No,Debit Card,12,Dec,4,2025-12,False
+NK190,2025-06-03,Latin America,Colombia,Online,Pegasus 41,Running,Women,10,White,3,160,0,160.0,480.0,340.71,139.29,4.5,No,Debit Card,6,Jun,2,2025-06,False
+NK191,2025-08-07,Asia-Pacific,Japan,Online,KD 18,Basketball,Women,8,Grey,1,160,20,128.0,128.0,85.14,42.86,4.5,No,PayPal,8,Aug,3,2025-08,False
+NK192,2025-11-19,Latin America,Chile,Online,Structure 25,Running,Unisex,11,White,1,130,5,123.5,123.5,71.92,51.58,4.5,No,UPI,11,Nov,4,2025-11,False
+NK193,2025-02-04,Latin America,Colombia,Retail Store,LeBron 22,Basketball,Women,7,Red,2,220,10,198.0,396.0,232.33,163.67,4.0,No,PayPal,2,Feb,1,2025-02,False
+NK194,2025-05-21,North America,USA,Retail Store,Structure 25,Running,Unisex,5,Blue,2,130,5,123.5,247.0,131.85,115.15,4.5,No,Credit Card,5,May,2,2025-05,False
+NK195,2025-09-16,Europe,Italy,Retail Store,Invincible 3,Running,Women,7,Red,1,180,5,171.0,171.0,100.85,70.15,5.0,No,UPI,9,Sep,3,2025-09,False
+NK196,2025-04-21,Europe,Italy,Retail Store,Air Max 90,Lifestyle,Men,11,Green,1,150,0,150.0,150.0,90.09,59.91,4.0,No,Credit Card,4,Apr,2,2025-04,False
+NK197,2025-02-22,Europe,France,Retail Store,Vomero 18,Running,Men,5,Green,1,150,10,135.0,135.0,71.11,63.89,4.5,No,UPI,2,Feb,1,2025-02,False
+NK198,2025-12-01,North America,Canada,Retail Store,Vomero 18,Running,Men,11,White,1,180,10,162.0,162.0,94.06,67.94,4.5,No,Credit Card,12,Dec,4,2025-12,False
+NK199,2025-08-29,North America,Canada,Retail Store,Air Max 270,Lifestyle,Women,10,Green,1,160,5,152.0,152.0,82.16,69.84,5.0,No,UPI,8,Aug,3,2025-08,False
+NK200,2025-04-17,North America,Mexico,Retail Store,Structure 25,Running,Unisex,8,Blue,3,130,0,130.0,390.0,267.28,122.72,5.0,No,PayPal,4,Apr,2,2025-04,False
+NK201,2025-11-12,Middle East & Africa,South Africa,Retail Store,Air Force 1,Lifestyle,Women,11,Grey,1,120,15,102.0,102.0,53.9,48.1,4.5,No,UPI,11,Nov,4,2025-11,False
+NK202,2025-07-30,North America,USA,Online,Air Max 90,Lifestyle,Men,11,Blue,1,130,15,110.5,110.5,59.79,50.71,5.0,No,Debit Card,7,Jul,3,2025-07,False
+NK203,2025-04-10,Asia-Pacific,Japan,Online,Air Max 270,Lifestyle,Women,10,Green,2,150,0,150.0,300.0,180.99,119.01,4.0,No,UPI,4,Apr,2,2025-04,False
+NK204,2025-05-29,North America,Canada,Online,Sabrina 3,Basketball,Unisex,7,Grey,1,130,15,110.5,110.5,71.71,38.79,3.5,No,Credit Card,5,May,2,2025-05,False
+NK205,2025-12-03,Europe,Italy,Wholesale,Free Metcon 6,Training,Men,7,Green,1,130,0,130.0,130.0,76.37,53.63,4.5,No,UPI,12,Dec,4,2025-12,False
+NK206,2025-06-05,Asia-Pacific,India,Retail Store,Structure 25,Running,Unisex,10,Grey,2,140,10,126.0,252.0,146.76,105.24,3.5,No,Debit Card,6,Jun,2,2025-06,False
+NK207,2025-11-09,North America,Canada,Retail Store,Metcon 10,Training,Women,9,Blue,2,160,5,152.0,304.0,171.65,132.35,4.5,No,PayPal,11,Nov,4,2025-11,False
+NK208,2025-02-28,North America,Mexico,Retail Store,Air Force 1,Lifestyle,Unisex,6,Blue,1,110,10,99.0,99.0,55.58,43.42,4.5,No,Credit Card,2,Feb,1,2025-02,False
+NK209,2025-11-27,North America,Mexico,Retail Store,Giannis Immortality 4,Basketball,Women,5,Red,1,80,5,76.0,0.0,0.0,0.0,4.5,Yes,UPI,11,Nov,4,2025-11,True
+NK210,2025-03-09,Asia-Pacific,South Korea,Retail Store,Metcon 10,Training,Unisex,8,Green,4,160,5,152.0,608.0,380.28,227.72,4.0,No,Debit Card,3,Mar,1,2025-03,False
+NK211,2025-09-05,North America,Canada,Online,Cortez,Lifestyle,Men,6,Grey,1,100,0,100.0,100.0,64.62,35.38,5.0,No,PayPal,9,Sep,3,2025-09,False
+NK212,2025-01-03,North America,Canada,Retail Store,Vomero 18,Running,Women,5,Black,1,160,10,144.0,144.0,88.09,55.91,5.0,No,UPI,1,Jan,1,2025-01,False
+NK213,2025-11-16,Europe,France,Wholesale,LeBron 22,Basketball,Women,9,Black,3,190,0,190.0,570.0,409.81,160.19,5.0,No,Credit Card,11,Nov,4,2025-11,False
+NK214,2025-05-05,Asia-Pacific,Japan,Retail Store,Vomero 18,Running,Men,6,White,2,160,15,136.0,0.0,0.0,0.0,5.0,Yes,Credit Card,5,May,2,2025-05,True
+NK215,2025-03-29,Asia-Pacific,Japan,Retail Store,Structure 25,Running,Women,13,Grey,2,160,10,144.0,288.0,159.13,128.87,3.5,No,Debit Card,3,Mar,1,2025-03,False
+NK216,2025-04-01,North America,Canada,Online,Giannis Immortality 4,Basketball,Men,7,Blue,2,90,5,85.5,171.0,113.85,57.15,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK217,2025-04-03,North America,Mexico,Online,Metcon 10,Training,Men,9,Green,1,150,25,112.5,0.0,0.0,0.0,5.0,Yes,PayPal,4,Apr,2,2025-04,True
+NK218,2025-11-20,North America,USA,Online,LeBron 22,Basketball,Men,8,Blue,1,210,5,199.5,199.5,118.05,81.45,3.5,No,UPI,11,Nov,4,2025-11,False
+NK219,2025-03-09,North America,USA,Retail Store,Metcon 10,Training,Women,9,Red,2,140,0,140.0,280.0,158.19,121.81,4.0,No,UPI,3,Mar,1,2025-03,False
+NK220,2025-12-28,Europe,Italy,Retail Store,Sabrina 3,Basketball,Men,12,Black,1,130,20,104.0,104.0,70.31,33.69,4.0,No,UPI,12,Dec,4,2025-12,False
+NK221,2025-10-07,North America,Mexico,Retail Store,KD 18,Basketball,Men,6,Grey,3,160,5,152.0,456.0,279.07,176.93,5.0,No,UPI,10,Oct,4,2025-10,False
+NK222,2025-09-11,Europe,Spain,Retail Store,Air Force 1,Lifestyle,Men,13,Blue,1,130,5,123.5,123.5,65.15,58.35,4.5,No,Credit Card,9,Sep,3,2025-09,False
+NK223,2025-10-30,North America,Canada,Retail Store,Free Metcon 6,Training,Women,13,Grey,1,140,5,133.0,133.0,69.2,63.8,5.0,No,UPI,10,Oct,4,2025-10,False
+NK224,2025-02-16,Europe,Italy,Wholesale,KD 18,Basketball,Women,9,Green,1,160,5,152.0,152.0,89.28,62.72,4.5,No,UPI,2,Feb,1,2025-02,False
+NK225,2025-01-10,Europe,UK,Online,LeBron 22,Basketball,Unisex,13,Red,1,200,5,190.0,190.0,109.02,80.98,5.0,No,Credit Card,1,Jan,1,2025-01,False
+NK226,2025-04-06,Asia-Pacific,Australia,Retail Store,Air Max 90,Lifestyle,Men,11,Grey,2,120,20,96.0,192.0,126.61,65.39,5.0,No,Credit Card,4,Apr,2,2025-04,False
+NK227,2025-03-04,North America,USA,Retail Store,LeBron 22,Basketball,Women,11,Black,4,220,5,209.0,836.0,577.93,258.07,4.0,No,Debit Card,3,Mar,1,2025-03,False
+NK228,2025-03-19,Latin America,Argentina,Retail Store,Dunk Low,Lifestyle,Unisex,11,Blue,2,125,0,125.0,250.0,136.22,113.78,4.5,No,Debit Card,3,Mar,1,2025-03,False
+NK229,2025-12-02,Europe,Spain,Wholesale,Vomero 18,Running,Women,7,Blue,1,160,10,144.0,0.0,0.0,0.0,4.0,Yes,PayPal,12,Dec,4,2025-12,True
+NK230,2025-01-07,North America,Canada,Retail Store,Metcon 10,Training,Women,11,Red,2,150,20,120.0,240.0,163.04,76.96,4.5,No,Credit Card,1,Jan,1,2025-01,False
+NK231,2025-04-07,North America,USA,Retail Store,Structure 25,Running,Men,10,Red,1,160,5,152.0,152.0,91.55,60.45,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK232,2025-03-25,Asia-Pacific,Australia,Retail Store,Metcon 10,Training,Women,8,Grey,1,150,5,142.5,142.5,102.09,40.41,4.0,No,PayPal,3,Mar,1,2025-03,False
+NK233,2025-11-14,Middle East & Africa,UAE,Retail Store,Metcon 10,Training,Women,13,Black,1,160,25,120.0,120.0,75.55,44.45,4.5,No,Debit Card,11,Nov,4,2025-11,False
+NK234,2025-01-22,Asia-Pacific,Japan,Retail Store,LeBron 22,Basketball,Men,10,Blue,1,200,5,190.0,190.0,123.76,66.24,4.0,No,Credit Card,1,Jan,1,2025-01,False
+NK235,2025-07-26,Europe,France,Retail Store,Giannis Immortality 4,Basketball,Women,10,Black,1,90,5,85.5,85.5,60.96,24.54,4.5,No,Credit Card,7,Jul,3,2025-07,False
+NK236,2025-11-11,Latin America,Argentina,Wholesale,Air Max 270,Lifestyle,Men,12,Green,2,160,10,144.0,0.0,0.0,0.0,4.5,Yes,Debit Card,11,Nov,4,2025-11,True
+NK237,2025-05-18,Europe,Italy,Retail Store,Sabrina 3,Basketball,Women,10,Green,1,130,20,104.0,104.0,73.62,30.38,4.0,No,Credit Card,5,May,2,2025-05,False
+NK238,2025-04-03,Europe,France,Retail Store,Vomero 18,Running,Men,12,Blue,1,170,20,136.0,136.0,77.76,58.24,4.5,No,UPI,4,Apr,2,2025-04,False
+NK239,2025-03-04,Asia-Pacific,India,Online,Free Metcon 6,Training,Men,6,Red,1,120,15,102.0,102.0,71.64,30.36,4.5,No,UPI,3,Mar,1,2025-03,False
+NK240,2025-10-02,Asia-Pacific,South Korea,Wholesale,Free Metcon 6,Training,Women,7,White,2,150,25,112.5,225.0,153.23,71.77,4.5,No,Credit Card,10,Oct,4,2025-10,False
+NK241,2025-10-22,Europe,UK,Retail Store,LeBron 22,Basketball,Unisex,9,Black,1,200,10,180.0,180.0,122.39,57.61,3.5,No,UPI,10,Oct,4,2025-10,False
+NK242,2025-04-17,Asia-Pacific,Singapore,Retail Store,Air Max 270,Lifestyle,Men,10,Red,1,160,15,136.0,136.0,85.27,50.73,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK243,2025-01-03,Europe,Germany,Online,Vomero 18,Running,Unisex,9,Grey,1,180,0,180.0,180.0,103.72,76.28,3.5,No,Credit Card,1,Jan,1,2025-01,False
+NK244,2025-05-20,Asia-Pacific,South Korea,Online,Pegasus 41,Running,Women,13,Grey,2,140,10,126.0,252.0,131.44,120.56,4.5,No,Credit Card,5,May,2,2025-05,False
+NK245,2025-10-22,Latin America,Colombia,Retail Store,Structure 25,Running,Men,13,Green,1,150,5,142.5,142.5,88.51,53.99,4.5,No,Debit Card,10,Oct,4,2025-10,False
+NK246,2025-08-02,Europe,UK,Online,Vomero 18,Running,Women,8,Grey,1,150,5,142.5,142.5,85.91,56.59,4.0,No,Credit Card,8,Aug,3,2025-08,False
+NK247,2025-08-23,Europe,Germany,Wholesale,Air Max 270,Lifestyle,Men,7,Blue,1,180,0,180.0,180.0,94.29,85.71,4.0,No,Credit Card,8,Aug,3,2025-08,False
+NK248,2025-06-01,North America,Mexico,Retail Store,LeBron 22,Basketball,Men,5,Red,1,220,5,209.0,209.0,140.0,69.0,4.5,No,Debit Card,6,Jun,2,2025-06,False
+NK249,2025-08-27,North America,USA,Retail Store,Free Metcon 6,Training,Women,11,White,1,130,10,117.0,117.0,61.36,55.64,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK250,2025-06-20,Latin America,Brazil,Retail Store,Free Metcon 6,Training,Men,9,Red,2,120,25,90.0,180.0,115.61,64.39,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK251,2025-12-30,Asia-Pacific,Australia,Online,Metcon 10,Training,Women,7,Red,3,140,10,126.0,378.0,211.94,166.06,5.0,No,PayPal,12,Dec,4,2025-12,False
+NK252,2025-08-12,North America,Canada,Online,Air Force 1,Lifestyle,Men,12,Blue,3,110,15,93.5,280.5,157.27,123.23,5.0,No,Debit Card,8,Aug,3,2025-08,False
+NK253,2025-08-22,North America,USA,Online,Air Max 90,Lifestyle,Men,12,Red,1,140,25,105.0,105.0,74.39,30.61,4.5,No,Debit Card,8,Aug,3,2025-08,False
+NK254,2025-09-13,Asia-Pacific,India,Online,Giannis Immortality 4,Basketball,Women,6,Grey,1,90,20,72.0,72.0,49.41,22.59,4.0,No,Credit Card,9,Sep,3,2025-09,False
+NK255,2025-07-28,Asia-Pacific,Australia,Retail Store,Dunk Low,Lifestyle,Women,11,Blue,1,135,10,121.5,121.5,79.64,41.86,4.0,No,PayPal,7,Jul,3,2025-07,False
+NK256,2025-09-02,North America,Canada,Retail Store,Sabrina 3,Basketball,Men,10,Red,2,130,10,117.0,234.0,161.58,72.42,4.0,No,UPI,9,Sep,3,2025-09,False
+NK257,2025-06-27,Europe,Italy,Online,Air Max 270,Lifestyle,Women,5,Green,1,160,15,136.0,136.0,86.62,49.38,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK258,2025-09-26,Asia-Pacific,Australia,Retail Store,Vomero 18,Running,Men,11,Grey,1,180,5,171.0,171.0,112.68,58.32,5.0,No,UPI,9,Sep,3,2025-09,False
+NK259,2025-09-14,Middle East & Africa,UAE,Online,Invincible 3,Running,Men,9,Red,1,180,15,153.0,153.0,92.79,60.21,5.0,No,UPI,9,Sep,3,2025-09,False
+NK260,2025-04-14,Asia-Pacific,Singapore,Retail Store,KD 18,Basketball,Unisex,5,Green,1,180,20,144.0,144.0,100.83,43.17,4.5,No,PayPal,4,Apr,2,2025-04,False
+NK261,2025-06-12,Middle East & Africa,South Africa,Online,LeBron 22,Basketball,Men,5,Red,2,200,15,170.0,340.0,244.64,95.36,3.5,No,Debit Card,6,Jun,2,2025-06,False
+NK262,2025-04-24,Europe,UK,Retail Store,Air Force 1,Lifestyle,Men,7,Red,1,120,10,108.0,108.0,56.47,51.53,4.5,No,PayPal,4,Apr,2,2025-04,False
+NK263,2025-06-02,Europe,Italy,Retail Store,Free Metcon 6,Training,Unisex,6,Blue,1,140,15,119.0,119.0,78.72,40.28,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK264,2025-07-22,Europe,France,Retail Store,Air Force 1,Lifestyle,Men,10,White,2,140,15,119.0,238.0,151.99,86.01,4.0,No,PayPal,7,Jul,3,2025-07,False
+NK265,2025-03-05,Europe,Italy,Online,Giannis Immortality 4,Basketball,Men,10,Green,1,80,10,72.0,72.0,39.69,32.31,4.5,No,Debit Card,3,Mar,1,2025-03,False
+NK266,2025-04-28,North America,Canada,Wholesale,KD 18,Basketball,Women,6,Grey,2,150,10,135.0,270.0,185.66,84.34,5.0,No,UPI,4,Apr,2,2025-04,False
+NK267,2025-07-28,Asia-Pacific,South Korea,Wholesale,Vomero 18,Running,Unisex,11,Grey,1,160,0,160.0,160.0,96.75,63.25,5.0,No,UPI,7,Jul,3,2025-07,False
+NK268,2025-08-27,Asia-Pacific,India,Online,LeBron 22,Basketball,Unisex,8,Blue,1,190,25,142.5,142.5,99.67,42.83,3.5,No,PayPal,8,Aug,3,2025-08,False
+NK269,2025-12-30,Asia-Pacific,Japan,Online,Air Max 90,Lifestyle,Women,10,White,1,140,0,140.0,140.0,74.79,65.21,3.5,No,Debit Card,12,Dec,4,2025-12,False
+NK270,2025-04-03,Middle East & Africa,Saudi Arabia,Online,Dunk Low,Lifestyle,Unisex,5,Blue,2,125,5,118.75,237.5,139.0,98.5,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK271,2025-10-05,North America,Canada,Retail Store,Pegasus 41,Running,Women,9,Green,2,140,5,133.0,266.0,146.56,119.44,5.0,No,Credit Card,10,Oct,4,2025-10,False
+NK272,2025-11-09,Asia-Pacific,Japan,Online,Structure 25,Running,Men,10,Grey,1,160,20,128.0,128.0,91.76,36.24,4.5,No,Debit Card,11,Nov,4,2025-11,False
+NK273,2025-08-07,Asia-Pacific,Singapore,Retail Store,Giannis Immortality 4,Basketball,Women,10,Red,3,100,25,75.0,225.0,133.72,91.28,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK274,2025-12-03,North America,USA,Online,Air Max 270,Lifestyle,Women,13,Blue,1,160,15,136.0,136.0,76.06,59.94,4.5,No,UPI,12,Dec,4,2025-12,False
+NK275,2025-08-08,Middle East & Africa,UAE,Online,Dunk Low,Lifestyle,Men,10,White,1,135,10,121.5,121.5,77.05,44.45,5.0,No,UPI,8,Aug,3,2025-08,False
+NK276,2025-09-13,Middle East & Africa,South Africa,Online,Vomero 18,Running,Women,9,Green,1,150,15,127.5,127.5,90.24,37.26,5.0,No,Credit Card,9,Sep,3,2025-09,False
+NK277,2025-10-03,North America,USA,Online,Cortez,Lifestyle,Men,5,Grey,2,120,15,102.0,204.0,130.57,73.43,4.0,No,Debit Card,10,Oct,4,2025-10,False
+NK278,2025-08-17,Middle East & Africa,UAE,Retail Store,Air Max 270,Lifestyle,Women,11,White,3,160,5,152.0,0.0,0.0,0.0,5.0,Yes,Debit Card,8,Aug,3,2025-08,True
+NK279,2025-04-04,Middle East & Africa,UAE,Online,KD 18,Basketball,Women,7,Blue,1,170,15,144.5,144.5,94.63,49.87,4.5,No,Debit Card,4,Apr,2,2025-04,False
+NK280,2025-01-01,Europe,Italy,Online,Giannis Immortality 4,Basketball,Women,13,Blue,2,90,5,85.5,171.0,120.67,50.33,4.5,No,Credit Card,1,Jan,1,2025-01,False
+NK281,2025-05-19,North America,Mexico,Online,Metcon 10,Training,Women,9,Grey,2,150,5,142.5,285.0,170.55,114.45,5.0,No,PayPal,5,May,2,2025-05,False
+NK282,2025-05-19,North America,USA,Online,Vomero 18,Running,Men,12,Red,2,160,10,144.0,288.0,163.26,124.74,4.5,No,UPI,5,May,2,2025-05,False
+NK283,2025-08-02,Asia-Pacific,Japan,Wholesale,Vomero 18,Running,Men,8,White,1,160,10,144.0,144.0,89.46,54.54,4.5,No,UPI,8,Aug,3,2025-08,False
+NK284,2025-07-29,Europe,UK,Wholesale,Invincible 3,Running,Men,6,Blue,1,180,5,171.0,171.0,104.06,66.94,4.0,No,Credit Card,7,Jul,3,2025-07,False
+NK285,2025-04-28,North America,Canada,Wholesale,Cortez,Lifestyle,Women,12,White,3,120,10,108.0,324.0,180.75,143.25,4.0,No,Credit Card,4,Apr,2,2025-04,False
+NK286,2025-06-11,Asia-Pacific,Japan,Wholesale,Air Force 1,Lifestyle,Unisex,11,Black,2,120,5,114.0,228.0,137.31,90.69,4.5,No,UPI,6,Jun,2,2025-06,False
+NK287,2025-10-21,Europe,Spain,Retail Store,Air Force 1,Lifestyle,Men,8,Green,1,110,15,93.5,93.5,57.7,35.8,4.5,No,UPI,10,Oct,4,2025-10,False
+NK288,2025-08-15,Europe,France,Online,Free Metcon 6,Training,Women,8,Black,2,130,15,110.5,221.0,156.09,64.91,4.0,No,Credit Card,8,Aug,3,2025-08,False
+NK289,2025-03-14,North America,Mexico,Retail Store,Pegasus 41,Running,Women,7,Green,4,150,0,150.0,600.0,337.76,262.24,5.0,No,Credit Card,3,Mar,1,2025-03,False
+NK290,2025-04-13,North America,Mexico,Retail Store,Invincible 3,Running,Men,6,Blue,1,190,5,180.5,180.5,122.51,57.99,3.5,No,Debit Card,4,Apr,2,2025-04,False
+NK291,2025-12-01,North America,USA,Online,Vomero 18,Running,Unisex,12,Green,2,150,0,150.0,300.0,209.86,90.14,5.0,No,Credit Card,12,Dec,4,2025-12,False
+NK292,2025-03-13,North America,USA,Retail Store,Free Metcon 6,Training,Women,5,Grey,1,150,20,120.0,120.0,66.78,53.22,4.0,No,Credit Card,3,Mar,1,2025-03,False
+NK293,2025-07-17,Middle East & Africa,South Africa,Retail Store,Pegasus 41,Running,Unisex,5,Black,3,130,10,117.0,351.0,204.41,146.59,4.5,No,Credit Card,7,Jul,3,2025-07,False
+NK294,2025-04-10,North America,Mexico,Online,Giannis Immortality 4,Basketball,Unisex,12,Grey,2,90,0,90.0,180.0,116.94,63.06,4.5,No,PayPal,4,Apr,2,2025-04,False
+NK295,2025-08-27,North America,Canada,Online,Air Max 270,Lifestyle,Men,8,Grey,1,170,10,153.0,153.0,88.07,64.93,4.0,No,Debit Card,8,Aug,3,2025-08,False
+NK296,2025-03-12,Asia-Pacific,South Korea,Wholesale,Air Max 270,Lifestyle,Women,13,Red,1,160,5,152.0,152.0,104.47,47.53,4.0,No,Credit Card,3,Mar,1,2025-03,False
+NK297,2025-12-16,Asia-Pacific,Japan,Online,Air Max 270,Lifestyle,Men,11,Green,3,160,10,144.0,432.0,281.5,150.5,4.0,No,UPI,12,Dec,4,2025-12,False
+NK298,2025-11-19,Europe,Germany,Online,Structure 25,Running,Unisex,8,Blue,1,140,10,126.0,126.0,66.51,59.49,4.0,No,Credit Card,11,Nov,4,2025-11,False
+NK299,2025-09-08,Latin America,Argentina,Online,Vomero 18,Running,Women,11,Green,2,150,5,142.5,285.0,163.36,121.64,4.5,No,Credit Card,9,Sep,3,2025-09,False
+NK300,2025-01-30,North America,USA,Online,Metcon 10,Training,Men,13,White,1,160,5,152.0,152.0,95.65,56.35,5.0,No,Credit Card,1,Jan,1,2025-01,False
+NK301,2025-04-09,Europe,France,Online,Free Metcon 6,Training,Unisex,11,Black,2,120,10,108.0,216.0,119.36,96.64,4.0,No,PayPal,4,Apr,2,2025-04,False
+NK302,2025-07-06,North America,Canada,Wholesale,Giannis Immortality 4,Basketball,Women,8,Green,1,90,0,90.0,90.0,53.87,36.13,4.5,No,Credit Card,7,Jul,3,2025-07,False
+NK303,2025-02-12,Asia-Pacific,India,Online,LeBron 22,Basketball,Men,8,Grey,1,220,0,220.0,220.0,132.46,87.54,4.0,No,Credit Card,2,Feb,1,2025-02,False
+NK304,2025-03-12,Europe,Spain,Retail Store,Dunk Low,Lifestyle,Women,7,Blue,1,125,5,118.75,118.75,69.63,49.12,4.5,No,UPI,3,Mar,1,2025-03,False
+NK305,2025-11-15,Asia-Pacific,South Korea,Online,Sabrina 3,Basketball,Men,6,Grey,1,130,20,104.0,104.0,69.35,34.65,5.0,No,UPI,11,Nov,4,2025-11,False
+NK306,2025-11-25,Asia-Pacific,Australia,Online,Air Force 1,Lifestyle,Men,13,Blue,1,140,25,105.0,105.0,61.68,43.32,4.5,No,UPI,11,Nov,4,2025-11,False
+NK307,2025-10-17,North America,USA,Wholesale,Air Max 270,Lifestyle,Men,11,Blue,2,160,5,152.0,304.0,174.54,129.46,5.0,No,UPI,10,Oct,4,2025-10,False
+NK308,2025-05-18,Asia-Pacific,Japan,Retail Store,Air Force 1,Lifestyle,Women,11,Grey,2,120,25,90.0,180.0,109.24,70.76,4.5,No,Credit Card,5,May,2,2025-05,False
+NK309,2025-12-14,Asia-Pacific,India,Retail Store,LeBron 22,Basketball,Women,11,White,1,200,10,180.0,180.0,110.55,69.45,4.5,No,Debit Card,12,Dec,4,2025-12,False
+NK310,2025-07-14,North America,Canada,Wholesale,Air Force 1,Lifestyle,Unisex,5,White,1,120,25,90.0,0.0,0.0,0.0,4.5,Yes,Debit Card,7,Jul,3,2025-07,True
+NK311,2025-12-27,North America,Canada,Online,Vomero 18,Running,Men,10,Black,1,160,15,136.0,136.0,87.73,48.27,5.0,No,Credit Card,12,Dec,4,2025-12,False
+NK312,2025-07-20,Middle East & Africa,Saudi Arabia,Online,Metcon 10,Training,Men,8,Blue,1,140,20,112.0,112.0,68.66,43.34,5.0,No,UPI,7,Jul,3,2025-07,False
+NK313,2025-06-05,North America,USA,Online,Dunk Low,Lifestyle,Men,9,White,1,115,25,86.25,86.25,60.21,26.04,4.0,No,UPI,6,Jun,2,2025-06,False
+NK314,2025-12-22,Europe,UK,Online,Free Metcon 6,Training,Unisex,8,White,2,130,25,97.5,195.0,132.01,62.99,4.5,No,Credit Card,12,Dec,4,2025-12,False
+NK315,2025-07-25,North America,Canada,Retail Store,Sabrina 3,Basketball,Unisex,11,Green,1,130,5,123.5,123.5,75.15,48.35,4.0,No,Credit Card,7,Jul,3,2025-07,False
+NK316,2025-04-14,North America,Mexico,Online,Cortez,Lifestyle,Unisex,9,Red,1,100,10,90.0,90.0,54.04,35.96,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK317,2025-11-22,North America,Mexico,Retail Store,Vomero 18,Running,Men,9,Blue,1,170,25,127.5,127.5,79.42,48.08,4.0,No,Debit Card,11,Nov,4,2025-11,False
+NK318,2025-02-23,North America,Canada,Online,Air Max 90,Lifestyle,Unisex,7,Black,4,130,15,110.5,442.0,265.62,176.38,4.0,No,Debit Card,2,Feb,1,2025-02,False
+NK319,2025-07-07,Europe,France,Retail Store,Air Max 90,Lifestyle,Men,8,Grey,2,150,10,135.0,270.0,160.09,109.91,4.0,No,UPI,7,Jul,3,2025-07,False
+NK320,2025-02-21,Europe,Spain,Retail Store,Air Force 1,Lifestyle,Men,12,Blue,2,130,15,110.5,221.0,148.84,72.16,4.5,No,Debit Card,2,Feb,1,2025-02,False
+NK321,2025-09-25,Europe,France,Retail Store,Air Force 1,Lifestyle,Unisex,10,White,2,120,15,102.0,204.0,140.04,63.96,4.5,No,UPI,9,Sep,3,2025-09,False
+NK322,2025-09-20,Asia-Pacific,Australia,Wholesale,KD 18,Basketball,Unisex,10,Green,2,160,20,128.0,256.0,162.98,93.02,4.5,No,PayPal,9,Sep,3,2025-09,False
+NK323,2025-04-26,North America,Canada,Retail Store,Pegasus 41,Running,Unisex,11,Green,2,130,25,97.5,195.0,113.22,81.78,4.0,No,Debit Card,4,Apr,2,2025-04,False
+NK324,2025-01-29,North America,Mexico,Online,Metcon 10,Training,Men,7,Green,1,150,10,135.0,135.0,92.23,42.77,4.5,No,Credit Card,1,Jan,1,2025-01,False
+NK325,2025-02-16,Europe,Spain,Online,KD 18,Basketball,Women,10,Black,1,180,20,144.0,144.0,86.03,57.97,5.0,No,UPI,2,Feb,1,2025-02,False
+NK326,2025-11-04,North America,USA,Online,Air Max 270,Lifestyle,Men,6,Blue,1,150,10,135.0,135.0,81.04,53.96,4.5,No,Credit Card,11,Nov,4,2025-11,False
+NK327,2025-10-19,North America,Canada,Retail Store,Free Metcon 6,Training,Women,13,White,1,130,20,104.0,104.0,61.27,42.73,4.0,No,PayPal,10,Oct,4,2025-10,False
+NK328,2025-02-08,North America,USA,Retail Store,Air Force 1,Lifestyle,Men,6,Blue,1,120,10,108.0,108.0,63.05,44.95,5.0,No,Debit Card,2,Feb,1,2025-02,False
+NK329,2025-03-31,North America,USA,Online,Free Metcon 6,Training,Women,12,Green,4,120,5,114.0,0.0,0.0,0.0,4.5,Yes,Debit Card,3,Mar,1,2025-03,True
+NK330,2025-09-03,Middle East & Africa,UAE,Online,KD 18,Basketball,Men,9,White,2,150,0,150.0,300.0,193.08,106.92,4.5,No,Debit Card,9,Sep,3,2025-09,False
+NK331,2025-04-05,North America,Canada,Online,Vomero 18,Running,Men,8,Black,1,160,5,152.0,152.0,92.49,59.51,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK332,2025-12-17,Latin America,Argentina,Online,Air Max 270,Lifestyle,Men,7,Black,1,150,10,135.0,135.0,76.88,58.12,4.5,No,Credit Card,12,Dec,4,2025-12,False
+NK333,2025-05-03,Asia-Pacific,Australia,Online,Pegasus 41,Running,Men,7,Green,2,140,5,133.0,266.0,142.58,123.42,4.5,No,PayPal,5,May,2,2025-05,False
+NK334,2025-02-14,Europe,Spain,Wholesale,Sabrina 3,Basketball,Men,9,Black,1,130,0,130.0,130.0,69.21,60.79,5.0,No,UPI,2,Feb,1,2025-02,False
+NK335,2025-07-19,North America,USA,Online,Air Max 270,Lifestyle,Men,5,Blue,1,170,10,153.0,153.0,97.59,55.41,4.0,No,Debit Card,7,Jul,3,2025-07,False
+NK336,2025-05-21,North America,Mexico,Retail Store,Metcon 10,Training,Men,13,Blue,3,170,15,144.5,433.5,237.78,195.72,4.5,No,Debit Card,5,May,2,2025-05,False
+NK337,2025-11-19,Europe,Germany,Retail Store,Cortez,Lifestyle,Women,11,Green,1,100,5,95.0,95.0,51.27,43.73,4.5,No,Credit Card,11,Nov,4,2025-11,False
+NK338,2025-03-17,North America,Mexico,Online,Dunk Low,Lifestyle,Women,11,Red,1,125,10,112.5,112.5,65.97,46.53,5.0,No,Credit Card,3,Mar,1,2025-03,False
+NK339,2025-08-02,Latin America,Chile,Online,Free Metcon 6,Training,Men,11,Blue,2,130,10,117.0,234.0,156.3,77.7,4.5,No,UPI,8,Aug,3,2025-08,False
+NK340,2025-06-17,Europe,Spain,Retail Store,Air Force 1,Lifestyle,Women,10,Blue,2,140,0,140.0,280.0,153.44,126.56,4.5,No,Debit Card,6,Jun,2,2025-06,False
+NK341,2025-03-06,North America,Canada,Online,KD 18,Basketball,Women,11,Green,3,180,20,144.0,432.0,310.31,121.69,5.0,No,Credit Card,3,Mar,1,2025-03,False
+NK342,2025-06-17,North America,Mexico,Online,Cortez,Lifestyle,Women,8,Red,1,100,10,90.0,90.0,60.16,29.84,4.0,No,UPI,6,Jun,2,2025-06,False
+NK343,2025-04-27,Europe,Italy,Retail Store,Sabrina 3,Basketball,Women,13,White,1,140,10,126.0,126.0,72.11,53.89,3.5,No,Debit Card,4,Apr,2,2025-04,False
+NK344,2025-12-21,North America,USA,Online,Metcon 10,Training,Women,5,Blue,3,150,10,135.0,405.0,224.73,180.27,4.5,No,Debit Card,12,Dec,4,2025-12,False
+NK345,2025-08-14,Asia-Pacific,Singapore,Retail Store,KD 18,Basketball,Women,10,Red,1,150,20,120.0,120.0,83.78,36.22,4.0,No,Credit Card,8,Aug,3,2025-08,False
+NK346,2025-05-02,North America,Canada,Retail Store,Air Max 90,Lifestyle,Men,11,White,1,130,5,123.5,123.5,78.74,44.76,5.0,No,UPI,5,May,2,2025-05,False
+NK347,2025-04-19,North America,USA,Online,Air Max 270,Lifestyle,Men,7,Black,1,150,10,135.0,135.0,93.51,41.49,5.0,No,Debit Card,4,Apr,2,2025-04,False
+NK348,2025-04-05,Latin America,Brazil,Retail Store,Dunk Low,Lifestyle,Men,13,Green,4,135,20,108.0,432.0,286.86,145.14,4.0,No,Credit Card,4,Apr,2,2025-04,False
+NK349,2025-11-04,North America,Mexico,Online,Sabrina 3,Basketball,Men,11,Grey,1,140,15,119.0,119.0,79.92,39.08,5.0,No,Credit Card,11,Nov,4,2025-11,False
+NK350,2025-06-02,Latin America,Brazil,Online,Air Force 1,Lifestyle,Women,11,Green,1,120,5,114.0,114.0,63.44,50.56,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK351,2025-11-14,Asia-Pacific,India,Online,LeBron 22,Basketball,Women,11,Red,1,200,5,190.0,190.0,118.69,71.31,5.0,No,Credit Card,11,Nov,4,2025-11,False
+NK352,2025-03-13,Asia-Pacific,Japan,Online,Vomero 18,Running,Unisex,5,Grey,1,150,0,150.0,150.0,81.27,68.73,5.0,No,PayPal,3,Mar,1,2025-03,False
+NK353,2025-12-03,North America,Canada,Retail Store,Air Max 270,Lifestyle,Women,7,Green,2,160,20,128.0,256.0,150.1,105.9,4.0,No,UPI,12,Dec,4,2025-12,False
+NK354,2025-06-28,North America,Canada,Retail Store,Vomero 18,Running,Men,5,Grey,1,170,15,144.5,144.5,102.41,42.09,4.5,No,UPI,6,Jun,2,2025-06,False
+NK355,2025-08-18,Asia-Pacific,South Korea,Online,Dunk Low,Lifestyle,Unisex,9,Black,2,135,0,135.0,270.0,166.08,103.92,4.0,No,UPI,8,Aug,3,2025-08,False
+NK356,2025-04-09,North America,Canada,Retail Store,Metcon 10,Training,Women,5,Blue,3,160,25,120.0,360.0,254.44,105.56,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK357,2025-03-20,North America,Mexico,Retail Store,Air Max 270,Lifestyle,Unisex,6,Grey,2,180,5,171.0,342.0,193.78,148.22,4.0,No,Credit Card,3,Mar,1,2025-03,False
+NK358,2025-07-11,North America,USA,Online,Air Max 90,Lifestyle,Men,10,White,1,130,10,117.0,117.0,64.76,52.24,3.5,No,UPI,7,Jul,3,2025-07,False
+NK359,2025-05-02,Europe,UK,Online,Structure 25,Running,Men,11,White,1,150,15,127.5,127.5,87.22,40.28,5.0,No,UPI,5,May,2,2025-05,False
+NK360,2025-11-03,Asia-Pacific,India,Retail Store,KD 18,Basketball,Women,13,White,1,170,5,161.5,0.0,0.0,0.0,3.5,Yes,PayPal,11,Nov,4,2025-11,True
+NK361,2025-04-07,Asia-Pacific,India,Online,Vomero 18,Running,Women,6,Red,3,180,15,153.0,459.0,305.03,153.97,4.5,No,UPI,4,Apr,2,2025-04,False
+NK362,2025-12-28,North America,USA,Online,Giannis Immortality 4,Basketball,Unisex,5,Grey,1,90,25,67.5,67.5,35.83,31.67,4.5,No,UPI,12,Dec,4,2025-12,False
+NK363,2025-03-12,Latin America,Colombia,Online,Air Max 90,Lifestyle,Women,10,Green,1,130,0,130.0,130.0,68.58,61.42,5.0,No,PayPal,3,Mar,1,2025-03,False
+NK364,2025-10-25,Latin America,Chile,Online,Air Max 90,Lifestyle,Men,8,Red,2,140,10,126.0,252.0,147.46,104.54,3.5,No,Credit Card,10,Oct,4,2025-10,False
+NK365,2025-03-03,North America,Canada,Online,Air Max 90,Lifestyle,Unisex,7,Black,1,130,10,117.0,117.0,66.08,50.92,4.5,No,UPI,3,Mar,1,2025-03,False
+NK366,2025-10-05,North America,Mexico,Retail Store,KD 18,Basketball,Men,6,Red,2,150,5,142.5,285.0,196.33,88.67,5.0,No,Credit Card,10,Oct,4,2025-10,False
+NK367,2025-03-02,Europe,Germany,Retail Store,Pegasus 41,Running,Women,5,Black,2,140,10,126.0,252.0,138.05,113.95,5.0,No,PayPal,3,Mar,1,2025-03,False
+NK368,2025-04-06,North America,Mexico,Retail Store,Pegasus 41,Running,Men,5,Grey,2,160,25,120.0,240.0,146.18,93.82,5.0,No,UPI,4,Apr,2,2025-04,False
+NK369,2025-04-07,Asia-Pacific,Japan,Online,Metcon 10,Training,Men,5,Blue,2,160,5,152.0,304.0,171.49,132.51,4.0,No,Debit Card,4,Apr,2,2025-04,False
+NK370,2025-11-30,Asia-Pacific,Singapore,Online,Metcon 10,Training,Women,11,Grey,4,150,0,150.0,600.0,357.79,242.21,4.0,No,PayPal,11,Nov,4,2025-11,False
+NK371,2025-06-29,Asia-Pacific,Japan,Online,Invincible 3,Running,Women,8,Grey,2,180,20,144.0,288.0,182.12,105.88,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK372,2025-01-15,Middle East & Africa,Saudi Arabia,Retail Store,Free Metcon 6,Training,Men,6,White,2,130,10,117.0,234.0,154.26,79.74,4.0,No,Credit Card,1,Jan,1,2025-01,False
+NK373,2025-03-15,Europe,UK,Retail Store,Invincible 3,Running,Men,10,Black,2,180,0,180.0,360.0,209.96,150.04,4.0,No,Credit Card,3,Mar,1,2025-03,False
+NK374,2025-05-17,Europe,Italy,Wholesale,Structure 25,Running,Men,12,White,1,130,0,130.0,130.0,70.8,59.2,4.5,No,Debit Card,5,May,2,2025-05,False
+NK375,2025-03-23,North America,USA,Online,Invincible 3,Running,Women,8,White,1,170,0,170.0,170.0,119.56,50.44,4.5,No,UPI,3,Mar,1,2025-03,False
+NK376,2025-01-26,Latin America,Brazil,Retail Store,Cortez,Lifestyle,Men,5,White,1,100,10,90.0,90.0,60.19,29.81,5.0,No,Credit Card,1,Jan,1,2025-01,False
+NK377,2025-02-18,Middle East & Africa,South Africa,Retail Store,Air Max 90,Lifestyle,Unisex,8,Grey,1,120,10,108.0,108.0,71.82,36.18,4.5,No,Credit Card,2,Feb,1,2025-02,False
+NK378,2025-05-24,Latin America,Argentina,Retail Store,Dunk Low,Lifestyle,Women,10,Blue,1,145,10,130.5,130.5,69.49,61.01,4.0,No,UPI,5,May,2,2025-05,False
+NK379,2025-03-09,North America,USA,Online,LeBron 22,Basketball,Women,5,Blue,1,190,15,161.5,161.5,90.96,70.54,5.0,No,Debit Card,3,Mar,1,2025-03,False
+NK380,2025-08-22,North America,USA,Online,KD 18,Basketball,Men,5,Green,1,160,10,144.0,144.0,76.43,67.57,4.0,No,UPI,8,Aug,3,2025-08,False
+NK381,2025-12-05,Asia-Pacific,Japan,Wholesale,Dunk Low,Lifestyle,Women,8,Green,2,125,15,106.25,212.5,128.28,84.22,4.0,No,UPI,12,Dec,4,2025-12,False
+NK382,2025-10-31,Asia-Pacific,Australia,Retail Store,Vomero 18,Running,Men,7,White,2,160,5,152.0,304.0,163.44,140.56,4.5,No,UPI,10,Oct,4,2025-10,False
+NK383,2025-11-24,Asia-Pacific,Japan,Retail Store,Metcon 10,Training,Women,11,Green,2,140,10,126.0,252.0,173.2,78.8,4.5,No,Credit Card,11,Nov,4,2025-11,False
+NK384,2025-09-14,North America,Mexico,Retail Store,Invincible 3,Running,Men,9,Green,2,180,0,180.0,360.0,245.63,114.37,5.0,No,UPI,9,Sep,3,2025-09,False
+NK385,2025-05-20,Middle East & Africa,UAE,Online,Air Force 1,Lifestyle,Men,9,Blue,1,120,0,120.0,120.0,74.09,45.91,4.0,No,UPI,5,May,2,2025-05,False
+NK386,2025-05-29,Asia-Pacific,South Korea,Online,Structure 25,Running,Unisex,12,Black,1,150,10,135.0,135.0,77.67,57.33,4.0,No,UPI,5,May,2,2025-05,False
+NK387,2025-08-30,Latin America,Argentina,Retail Store,Vomero 18,Running,Men,12,Grey,1,160,20,128.0,128.0,80.71,47.29,4.5,No,UPI,8,Aug,3,2025-08,False
+NK388,2025-10-31,Europe,Germany,Online,KD 18,Basketball,Women,8,White,1,160,0,160.0,160.0,110.0,50.0,3.5,No,UPI,10,Oct,4,2025-10,False
+NK389,2025-10-16,Latin America,Brazil,Online,LeBron 22,Basketball,Men,9,White,2,220,5,209.0,418.0,263.13,154.87,4.5,No,PayPal,10,Oct,4,2025-10,False
+NK390,2025-06-26,Asia-Pacific,Australia,Retail Store,Sabrina 3,Basketball,Women,5,Grey,1,140,20,112.0,112.0,67.3,44.7,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK391,2025-10-07,Asia-Pacific,Japan,Online,Air Force 1,Lifestyle,Women,13,Grey,1,120,15,102.0,102.0,59.53,42.47,4.0,No,Credit Card,10,Oct,4,2025-10,False
+NK392,2025-04-18,Europe,Italy,Retail Store,Air Force 1,Lifestyle,Unisex,6,Grey,2,120,0,120.0,240.0,168.3,71.7,4.5,No,PayPal,4,Apr,2,2025-04,False
+NK393,2025-11-26,North America,USA,Online,Giannis Immortality 4,Basketball,Men,12,Blue,1,90,15,76.5,76.5,48.0,28.5,4.5,No,Credit Card,11,Nov,4,2025-11,False
+NK394,2025-12-07,Asia-Pacific,Singapore,Online,Dunk Low,Lifestyle,Unisex,12,Grey,3,125,15,106.25,318.75,229.21,89.54,4.0,No,Credit Card,12,Dec,4,2025-12,False
+NK395,2025-09-13,Middle East & Africa,Egypt,Online,Sabrina 3,Basketball,Women,9,Green,1,140,5,133.0,133.0,79.32,53.68,4.5,No,UPI,9,Sep,3,2025-09,False
+NK396,2025-02-27,North America,Canada,Online,Air Force 1,Lifestyle,Women,9,Black,1,130,10,117.0,0.0,0.0,0.0,4.0,Yes,UPI,2,Feb,1,2025-02,True
+NK397,2025-07-01,Middle East & Africa,South Africa,Online,Pegasus 41,Running,Unisex,6,Blue,1,130,5,123.5,123.5,74.08,49.42,5.0,No,Debit Card,7,Jul,3,2025-07,False
+NK398,2025-08-14,Asia-Pacific,India,Retail Store,Dunk Low,Lifestyle,Women,6,Blue,3,135,0,135.0,405.0,228.32,176.68,4.0,No,Credit Card,8,Aug,3,2025-08,False
+NK399,2025-06-23,North America,Canada,Retail Store,Pegasus 41,Running,Men,10,Green,3,140,0,140.0,420.0,291.11,128.89,3.5,No,Credit Card,6,Jun,2,2025-06,False
+NK400,2025-02-20,Europe,France,Retail Store,Dunk Low,Lifestyle,Unisex,13,Grey,1,145,0,145.0,145.0,103.79,41.21,5.0,No,Debit Card,2,Feb,1,2025-02,False
+NK401,2025-08-30,Europe,Italy,Online,KD 18,Basketball,Women,12,Blue,2,180,15,153.0,0.0,0.0,0.0,5.0,Yes,Credit Card,8,Aug,3,2025-08,True
+NK402,2025-02-06,North America,USA,Retail Store,Invincible 3,Running,Women,8,Blue,1,180,5,171.0,171.0,106.11,64.89,4.5,No,PayPal,2,Feb,1,2025-02,False
+NK403,2025-02-11,North America,USA,Online,Giannis Immortality 4,Basketball,Unisex,10,Red,2,90,5,85.5,171.0,89.16,81.84,5.0,No,Credit Card,2,Feb,1,2025-02,False
+NK404,2025-09-22,North America,USA,Retail Store,Structure 25,Running,Men,8,Grey,1,160,0,160.0,0.0,0.0,0.0,5.0,Yes,Debit Card,9,Sep,3,2025-09,True
+NK405,2025-10-19,Latin America,Argentina,Online,Air Force 1,Lifestyle,Women,13,Black,1,140,10,126.0,126.0,85.48,40.52,5.0,No,Debit Card,10,Oct,4,2025-10,False
+NK406,2025-06-05,Middle East & Africa,UAE,Online,Giannis Immortality 4,Basketball,Women,10,Black,1,90,10,81.0,0.0,0.0,0.0,4.0,Yes,Debit Card,6,Jun,2,2025-06,True
+NK407,2025-02-24,Asia-Pacific,South Korea,Online,Air Max 90,Lifestyle,Men,9,Green,1,130,0,130.0,130.0,79.03,50.97,4.5,No,UPI,2,Feb,1,2025-02,False
+NK408,2025-02-11,Latin America,Chile,Retail Store,Invincible 3,Running,Men,6,Green,1,180,20,144.0,144.0,79.53,64.47,4.5,No,UPI,2,Feb,1,2025-02,False
+NK409,2025-07-16,Latin America,Argentina,Retail Store,Invincible 3,Running,Women,13,Blue,1,170,20,136.0,0.0,0.0,0.0,4.5,Yes,UPI,7,Jul,3,2025-07,True
+NK410,2025-07-28,North America,USA,Online,Air Max 270,Lifestyle,Women,12,Blue,2,160,5,152.0,304.0,168.44,135.56,5.0,No,UPI,7,Jul,3,2025-07,False
+NK411,2025-11-11,Europe,Italy,Retail Store,Air Force 1,Lifestyle,Unisex,6,Red,1,130,5,123.5,123.5,70.66,52.84,4.0,No,UPI,11,Nov,4,2025-11,False
+NK412,2025-07-20,Europe,France,Wholesale,Giannis Immortality 4,Basketball,Men,8,Blue,1,90,5,85.5,85.5,52.29,33.21,4.0,No,PayPal,7,Jul,3,2025-07,False
+NK413,2025-08-05,Europe,UK,Retail Store,Air Max 270,Lifestyle,Men,9,Blue,1,160,5,152.0,152.0,104.02,47.98,4.0,No,Credit Card,8,Aug,3,2025-08,False
+NK414,2025-10-24,Europe,France,Retail Store,Giannis Immortality 4,Basketball,Men,11,White,2,110,10,99.0,198.0,119.0,79.0,3.5,No,UPI,10,Oct,4,2025-10,False
+NK415,2025-01-03,North America,Canada,Retail Store,Free Metcon 6,Training,Men,5,Grey,1,150,15,127.5,127.5,74.2,53.3,4.5,No,Credit Card,1,Jan,1,2025-01,False
+NK416,2025-07-30,Asia-Pacific,Singapore,Online,Invincible 3,Running,Unisex,7,Red,2,180,5,171.0,342.0,192.71,149.29,4.5,No,Credit Card,7,Jul,3,2025-07,False
+NK417,2025-06-04,Europe,UK,Online,Vomero 18,Running,Men,5,Black,2,150,15,127.5,255.0,175.69,79.31,5.0,No,UPI,6,Jun,2,2025-06,False
+NK418,2025-08-04,Europe,Spain,Retail Store,Air Max 270,Lifestyle,Unisex,13,Black,1,160,10,144.0,144.0,99.71,44.29,4.5,No,UPI,8,Aug,3,2025-08,False
+NK419,2025-01-05,Europe,Germany,Retail Store,Structure 25,Running,Unisex,12,White,1,160,10,144.0,144.0,88.54,55.46,4.5,No,Debit Card,1,Jan,1,2025-01,False
+NK420,2025-08-14,North America,Canada,Online,Structure 25,Running,Women,11,Black,1,150,5,142.5,142.5,88.47,54.03,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK421,2025-12-15,North America,USA,Retail Store,Invincible 3,Running,Men,6,Grey,2,180,20,144.0,288.0,175.03,112.97,3.5,No,UPI,12,Dec,4,2025-12,False
+NK422,2025-03-28,Latin America,Brazil,Online,Pegasus 41,Running,Women,6,Blue,1,140,5,133.0,133.0,95.73,37.27,4.5,No,UPI,3,Mar,1,2025-03,False
+NK423,2025-05-08,Middle East & Africa,South Africa,Online,LeBron 22,Basketball,Men,10,Grey,2,210,15,178.5,357.0,208.18,148.82,5.0,No,UPI,5,May,2,2025-05,False
+NK424,2025-06-28,Europe,Italy,Online,Cortez,Lifestyle,Women,8,Red,1,100,15,85.0,85.0,55.06,29.94,3.5,No,UPI,6,Jun,2,2025-06,False
+NK425,2025-12-04,North America,Mexico,Retail Store,LeBron 22,Basketball,Men,11,Black,1,220,25,165.0,165.0,112.92,52.08,5.0,No,Debit Card,12,Dec,4,2025-12,False
+NK426,2025-09-15,North America,Canada,Online,Air Force 1,Lifestyle,Unisex,6,Blue,1,140,15,119.0,119.0,63.19,55.81,4.5,No,PayPal,9,Sep,3,2025-09,False
+NK427,2025-12-12,Middle East & Africa,Saudi Arabia,Online,Cortez,Lifestyle,Men,9,Green,2,100,10,90.0,180.0,120.58,59.42,4.5,No,Credit Card,12,Dec,4,2025-12,False
+NK428,2025-06-04,North America,Canada,Retail Store,Pegasus 41,Running,Women,10,Green,1,150,10,135.0,135.0,72.28,62.72,5.0,No,Debit Card,6,Jun,2,2025-06,False
+NK429,2025-09-05,Asia-Pacific,South Korea,Retail Store,Air Max 90,Lifestyle,Women,6,Black,2,140,5,133.0,266.0,139.65,126.35,4.5,No,UPI,9,Sep,3,2025-09,False
+NK430,2025-08-20,Asia-Pacific,Singapore,Online,KD 18,Basketball,Men,10,Green,1,160,0,160.0,160.0,85.02,74.98,5.0,No,Debit Card,8,Aug,3,2025-08,False
+NK431,2025-11-24,Asia-Pacific,Singapore,Retail Store,Metcon 10,Training,Men,8,Black,1,150,10,135.0,135.0,92.84,42.16,4.0,No,Credit Card,11,Nov,4,2025-11,False
+NK432,2025-01-06,Asia-Pacific,Singapore,Online,Metcon 10,Training,Women,6,White,1,150,10,135.0,135.0,79.07,55.93,3.5,No,UPI,1,Jan,1,2025-01,False
+NK433,2025-04-15,Middle East & Africa,South Africa,Retail Store,Invincible 3,Running,Women,12,Green,3,170,5,161.5,484.5,255.18,229.32,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK434,2025-02-28,North America,USA,Online,Sabrina 3,Basketball,Unisex,13,White,1,130,25,97.5,97.5,54.76,42.74,4.5,No,UPI,2,Feb,1,2025-02,False
+NK435,2025-06-27,Middle East & Africa,South Africa,Retail Store,Air Force 1,Lifestyle,Women,11,Black,1,130,25,97.5,97.5,56.45,41.05,5.0,No,Credit Card,6,Jun,2,2025-06,False
+NK436,2025-11-29,North America,USA,Online,Cortez,Lifestyle,Men,10,Blue,2,100,10,90.0,180.0,100.45,79.55,4.0,No,Credit Card,11,Nov,4,2025-11,False
+NK437,2025-06-30,Europe,Italy,Online,Free Metcon 6,Training,Unisex,9,White,2,130,0,130.0,260.0,145.45,114.55,4.5,No,UPI,6,Jun,2,2025-06,False
+NK438,2025-03-26,North America,USA,Wholesale,Vomero 18,Running,Women,13,Green,1,160,10,144.0,144.0,76.0,68.0,4.5,No,Credit Card,3,Mar,1,2025-03,False
+NK439,2025-08-31,Europe,UK,Retail Store,KD 18,Basketball,Unisex,8,Blue,1,160,15,136.0,136.0,92.44,43.56,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK440,2025-12-28,North America,USA,Retail Store,Giannis Immortality 4,Basketball,Women,6,Black,3,90,10,81.0,243.0,172.67,70.33,4.0,No,Credit Card,12,Dec,4,2025-12,False
+NK441,2025-06-21,Asia-Pacific,Australia,Retail Store,Air Max 270,Lifestyle,Men,10,Grey,1,160,0,160.0,160.0,103.26,56.74,4.5,No,PayPal,6,Jun,2,2025-06,False
+NK442,2025-12-19,Latin America,Colombia,Online,Dunk Low,Lifestyle,Men,6,Blue,1,145,0,145.0,0.0,0.0,0.0,4.5,Yes,PayPal,12,Dec,4,2025-12,True
+NK443,2025-07-04,Middle East & Africa,UAE,Online,Sabrina 3,Basketball,Men,7,Green,1,150,10,135.0,135.0,91.31,43.69,4.5,No,UPI,7,Jul,3,2025-07,False
+NK444,2025-01-31,Middle East & Africa,Egypt,Retail Store,Invincible 3,Running,Men,9,White,1,170,0,170.0,170.0,110.77,59.23,3.5,No,UPI,1,Jan,1,2025-01,False
+NK445,2025-11-19,North America,USA,Online,Structure 25,Running,Women,12,Grey,1,150,10,135.0,135.0,85.92,49.08,4.5,No,Debit Card,11,Nov,4,2025-11,False
+NK446,2025-04-10,Latin America,Colombia,Online,Air Max 90,Lifestyle,Women,9,Red,3,130,5,123.5,370.5,204.1,166.4,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK447,2025-10-02,Europe,Spain,Online,Sabrina 3,Basketball,Men,7,Red,1,120,25,90.0,90.0,59.71,30.29,3.5,No,UPI,10,Oct,4,2025-10,False
+NK448,2025-04-07,Europe,Germany,Online,KD 18,Basketball,Men,9,Grey,2,170,10,153.0,306.0,186.21,119.79,4.5,No,UPI,4,Apr,2,2025-04,False
+NK449,2025-05-24,Latin America,Brazil,Wholesale,Cortez,Lifestyle,Women,5,Black,1,90,10,81.0,81.0,52.27,28.73,4.5,No,PayPal,5,May,2,2025-05,False
+NK450,2025-09-04,Middle East & Africa,Saudi Arabia,Online,KD 18,Basketball,Unisex,10,Green,1,160,10,144.0,144.0,80.42,63.58,5.0,No,Debit Card,9,Sep,3,2025-09,False
+NK451,2025-07-02,Asia-Pacific,Australia,Online,Air Force 1,Lifestyle,Women,13,Grey,1,120,20,96.0,96.0,53.41,42.59,5.0,No,PayPal,7,Jul,3,2025-07,False
+NK452,2025-11-19,Europe,Germany,Wholesale,Air Force 1,Lifestyle,Men,9,Red,1,120,10,108.0,108.0,68.81,39.19,4.0,No,UPI,11,Nov,4,2025-11,False
+NK453,2025-06-22,Middle East & Africa,Egypt,Wholesale,Pegasus 41,Running,Men,8,Red,1,150,20,120.0,120.0,70.34,49.66,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK454,2025-06-09,Asia-Pacific,Australia,Online,Air Force 1,Lifestyle,Men,10,Red,1,120,20,96.0,96.0,51.91,44.09,4.5,No,PayPal,6,Jun,2,2025-06,False
+NK455,2025-10-21,Latin America,Chile,Online,Free Metcon 6,Training,Men,10,Blue,2,120,0,120.0,240.0,167.95,72.05,4.5,No,PayPal,10,Oct,4,2025-10,False
+NK456,2025-08-02,Asia-Pacific,Singapore,Online,Cortez,Lifestyle,Unisex,7,Red,2,100,15,85.0,170.0,95.23,74.77,4.0,No,Debit Card,8,Aug,3,2025-08,False
+NK457,2025-05-10,North America,USA,Online,Air Max 90,Lifestyle,Men,9,Grey,1,130,25,97.5,97.5,53.49,44.01,4.5,No,PayPal,5,May,2,2025-05,False
+NK458,2025-01-26,Europe,UK,Online,Pegasus 41,Running,Women,7,Grey,1,160,10,144.0,144.0,96.93,47.07,5.0,No,UPI,1,Jan,1,2025-01,False
+NK459,2025-06-24,North America,Canada,Retail Store,Metcon 10,Training,Unisex,9,Green,2,170,0,170.0,340.0,194.02,145.98,5.0,No,Debit Card,6,Jun,2,2025-06,False
+NK460,2025-09-13,Europe,Italy,Online,Dunk Low,Lifestyle,Women,6,Grey,1,125,5,118.75,118.75,84.62,34.13,5.0,No,PayPal,9,Sep,3,2025-09,False
+NK461,2025-05-26,North America,Mexico,Online,Cortez,Lifestyle,Men,11,Red,2,120,5,114.0,228.0,155.14,72.86,4.0,No,UPI,5,May,2,2025-05,False
+NK462,2025-07-05,Latin America,Argentina,Retail Store,Invincible 3,Running,Women,9,Grey,3,170,15,144.5,433.5,269.94,163.56,5.0,No,Credit Card,7,Jul,3,2025-07,False
+NK463,2025-11-22,Latin America,Chile,Retail Store,Air Max 90,Lifestyle,Women,13,Blue,2,120,20,96.0,192.0,135.08,56.92,5.0,No,UPI,11,Nov,4,2025-11,False
+NK464,2025-08-15,North America,Canada,Online,LeBron 22,Basketball,Men,7,Black,1,210,10,189.0,189.0,124.35,64.65,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK465,2025-11-13,North America,Canada,Online,Air Max 90,Lifestyle,Women,5,Black,1,130,15,110.5,110.5,73.14,37.36,5.0,No,PayPal,11,Nov,4,2025-11,False
+NK466,2025-01-31,North America,Mexico,Wholesale,Cortez,Lifestyle,Men,5,Green,1,120,15,102.0,102.0,69.79,32.21,4.5,No,Credit Card,1,Jan,1,2025-01,False
+NK467,2025-02-06,Middle East & Africa,Saudi Arabia,Retail Store,Structure 25,Running,Women,12,Blue,1,130,5,123.5,0.0,0.0,0.0,4.5,Yes,Debit Card,2,Feb,1,2025-02,True
+NK468,2025-03-28,North America,Mexico,Online,KD 18,Basketball,Men,9,Grey,2,160,15,136.0,272.0,169.17,102.83,5.0,No,Debit Card,3,Mar,1,2025-03,False
+NK469,2025-03-31,North America,Mexico,Online,Free Metcon 6,Training,Men,12,Grey,3,130,5,123.5,370.5,239.89,130.61,4.0,No,UPI,3,Mar,1,2025-03,False
+NK470,2025-11-19,Europe,Spain,Retail Store,KD 18,Basketball,Women,11,Black,1,160,25,120.0,120.0,78.54,41.46,4.5,No,UPI,11,Nov,4,2025-11,False
+NK471,2025-09-17,Asia-Pacific,South Korea,Retail Store,Air Force 1,Lifestyle,Men,7,Red,1,120,5,114.0,114.0,67.77,46.23,3.5,No,Credit Card,9,Sep,3,2025-09,False
+NK472,2025-03-08,Europe,Italy,Online,Air Max 90,Lifestyle,Men,6,Grey,1,120,15,102.0,102.0,63.79,38.21,4.0,No,Credit Card,3,Mar,1,2025-03,False
+NK473,2025-12-10,Europe,Spain,Online,Giannis Immortality 4,Basketball,Men,12,Red,1,110,5,104.5,104.5,59.71,44.79,4.5,No,Credit Card,12,Dec,4,2025-12,False
+NK474,2025-08-22,Latin America,Chile,Retail Store,Air Max 270,Lifestyle,Unisex,6,Green,1,160,10,144.0,144.0,100.63,43.37,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK475,2025-10-13,Latin America,Colombia,Online,Free Metcon 6,Training,Men,13,Grey,2,130,5,123.5,247.0,168.12,78.88,5.0,No,UPI,10,Oct,4,2025-10,False
+NK476,2025-12-30,Latin America,Colombia,Retail Store,Giannis Immortality 4,Basketball,Women,9,Red,3,110,0,110.0,330.0,176.25,153.75,4.5,No,Debit Card,12,Dec,4,2025-12,False
+NK477,2025-10-17,Latin America,Argentina,Retail Store,Free Metcon 6,Training,Women,7,White,1,130,5,123.5,123.5,80.67,42.83,4.0,No,Credit Card,10,Oct,4,2025-10,False
+NK478,2025-03-15,Asia-Pacific,South Korea,Retail Store,Metcon 10,Training,Women,9,Red,1,150,20,120.0,120.0,70.27,49.73,5.0,No,Credit Card,3,Mar,1,2025-03,False
+NK479,2025-11-06,Europe,France,Online,Free Metcon 6,Training,Unisex,6,Black,2,140,25,105.0,210.0,130.24,79.76,4.5,No,Debit Card,11,Nov,4,2025-11,False
+NK480,2025-05-07,Asia-Pacific,Singapore,Retail Store,Free Metcon 6,Training,Women,8,Black,2,140,10,126.0,252.0,173.85,78.15,4.5,No,Credit Card,5,May,2,2025-05,False
+NK481,2025-08-30,Europe,Spain,Wholesale,Air Max 90,Lifestyle,Women,7,Blue,2,130,5,123.5,0.0,0.0,0.0,4.5,Yes,UPI,8,Aug,3,2025-08,True
+NK482,2025-08-07,North America,Canada,Retail Store,Air Max 270,Lifestyle,Unisex,5,Black,1,160,10,144.0,144.0,91.17,52.83,4.5,No,UPI,8,Aug,3,2025-08,False
+NK483,2025-09-19,North America,Mexico,Retail Store,Sabrina 3,Basketball,Women,13,Green,1,140,10,126.0,126.0,67.65,58.35,4.5,No,UPI,9,Sep,3,2025-09,False
+NK484,2025-06-13,Europe,Spain,Online,Metcon 10,Training,Women,12,Black,4,140,5,133.0,532.0,317.75,214.25,4.0,No,Debit Card,6,Jun,2,2025-06,False
+NK485,2025-03-21,Asia-Pacific,Singapore,Wholesale,KD 18,Basketball,Women,11,Blue,2,160,10,144.0,288.0,173.82,114.18,3.5,No,Credit Card,3,Mar,1,2025-03,False
+NK486,2025-10-19,Middle East & Africa,UAE,Online,Invincible 3,Running,Men,6,Blue,3,170,10,153.0,0.0,0.0,0.0,5.0,Yes,UPI,10,Oct,4,2025-10,True
+NK487,2025-09-27,Europe,France,Retail Store,Structure 25,Running,Women,9,White,1,140,10,126.0,126.0,80.8,45.2,5.0,No,UPI,9,Sep,3,2025-09,False
+NK488,2025-04-29,Asia-Pacific,Japan,Online,Giannis Immortality 4,Basketball,Women,8,Red,4,110,10,99.0,396.0,227.0,169.0,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK489,2025-04-24,North America,USA,Retail Store,Giannis Immortality 4,Basketball,Women,12,Green,2,90,20,72.0,144.0,100.29,43.71,4.5,No,Credit Card,4,Apr,2,2025-04,False
+NK490,2025-06-25,North America,USA,Retail Store,Dunk Low,Lifestyle,Women,10,White,1,125,0,125.0,125.0,72.78,52.22,5.0,No,Credit Card,6,Jun,2,2025-06,False
+NK491,2025-12-12,North America,Canada,Retail Store,Air Max 270,Lifestyle,Men,13,Blue,1,180,15,153.0,153.0,103.56,49.44,3.5,No,UPI,12,Dec,4,2025-12,False
+NK492,2025-01-08,Asia-Pacific,Australia,Retail Store,Dunk Low,Lifestyle,Men,9,White,2,125,20,100.0,200.0,132.55,67.45,5.0,No,UPI,1,Jan,1,2025-01,False
+NK493,2025-01-23,North America,Canada,Retail Store,Air Max 90,Lifestyle,Men,7,Red,1,130,0,130.0,130.0,68.45,61.55,3.5,No,Credit Card,1,Jan,1,2025-01,False
+NK494,2025-04-18,Asia-Pacific,Australia,Online,Giannis Immortality 4,Basketball,Unisex,8,White,2,90,5,85.5,171.0,90.81,80.19,4.5,No,UPI,4,Apr,2,2025-04,False
+NK495,2025-02-09,Asia-Pacific,Australia,Retail Store,Metcon 10,Training,Men,7,Green,1,160,10,144.0,144.0,96.47,47.53,4.0,No,Credit Card,2,Feb,1,2025-02,False
+NK496,2025-11-07,Europe,UK,Online,Dunk Low,Lifestyle,Women,8,Black,1,115,5,109.25,109.25,72.24,37.01,4.0,No,Debit Card,11,Nov,4,2025-11,False
+NK497,2025-08-16,North America,USA,Online,Sabrina 3,Basketball,Men,9,Black,1,130,15,110.5,110.5,72.01,38.49,5.0,No,UPI,8,Aug,3,2025-08,False
+NK498,2025-07-15,Latin America,Chile,Online,Cortez,Lifestyle,Unisex,11,Grey,1,100,5,95.0,95.0,63.41,31.59,5.0,No,UPI,7,Jul,3,2025-07,False
+NK499,2025-03-02,Latin America,Argentina,Online,Giannis Immortality 4,Basketball,Men,10,Red,1,100,20,80.0,80.0,43.45,36.55,5.0,No,Debit Card,3,Mar,1,2025-03,False
+NK500,2025-06-02,Asia-Pacific,India,Retail Store,Air Force 1,Lifestyle,Women,6,White,1,110,25,82.5,0.0,0.0,0.0,4.5,Yes,Credit Card,6,Jun,2,2025-06,True
+NK501,2025-04-03,Europe,Italy,Wholesale,Sabrina 3,Basketball,Men,10,Grey,2,130,15,110.5,221.0,131.11,89.89,4.0,No,UPI,4,Apr,2,2025-04,False
+NK502,2025-06-16,North America,USA,Online,Pegasus 41,Running,Unisex,9,Green,1,150,10,135.0,135.0,81.55,53.45,4.5,No,PayPal,6,Jun,2,2025-06,False
+NK503,2025-05-04,Europe,Germany,Retail Store,Dunk Low,Lifestyle,Men,5,Grey,3,125,20,100.0,300.0,200.37,99.63,4.0,No,UPI,5,May,2,2025-05,False
+NK504,2025-06-05,North America,USA,Wholesale,KD 18,Basketball,Women,9,Black,1,150,15,127.5,127.5,69.3,58.2,5.0,No,Credit Card,6,Jun,2,2025-06,False
+NK505,2025-01-23,Europe,France,Retail Store,Metcon 10,Training,Men,10,Black,3,150,15,127.5,382.5,258.72,123.78,4.0,No,UPI,1,Jan,1,2025-01,False
+NK506,2025-08-15,Asia-Pacific,Japan,Retail Store,Structure 25,Running,Unisex,10,Red,1,140,5,133.0,133.0,86.5,46.5,4.5,No,UPI,8,Aug,3,2025-08,False
+NK507,2025-07-20,Europe,Spain,Online,Invincible 3,Running,Women,10,Red,3,170,20,136.0,408.0,217.82,190.18,4.5,No,UPI,7,Jul,3,2025-07,False
+NK508,2025-03-12,North America,Mexico,Retail Store,Structure 25,Running,Men,12,White,1,140,15,119.0,119.0,83.12,35.88,4.0,No,Debit Card,3,Mar,1,2025-03,False
+NK509,2025-08-01,North America,USA,Wholesale,Free Metcon 6,Training,Women,10,Blue,1,140,5,133.0,133.0,80.91,52.09,4.0,No,Credit Card,8,Aug,3,2025-08,False
+NK510,2025-10-07,Asia-Pacific,Singapore,Online,Air Max 90,Lifestyle,Women,10,Green,1,130,0,130.0,130.0,89.93,40.07,5.0,No,UPI,10,Oct,4,2025-10,False
+NK511,2025-05-18,North America,Mexico,Retail Store,Air Force 1,Lifestyle,Men,7,Black,1,120,5,114.0,114.0,74.82,39.18,4.5,No,UPI,5,May,2,2025-05,False
+NK512,2025-05-09,North America,USA,Online,Air Max 270,Lifestyle,Men,12,Grey,1,160,5,152.0,152.0,104.92,47.08,4.0,No,Credit Card,5,May,2,2025-05,False
+NK513,2025-09-29,North America,USA,Wholesale,Vomero 18,Running,Unisex,10,Grey,2,150,0,150.0,300.0,170.62,129.38,3.5,No,UPI,9,Sep,3,2025-09,False
+NK514,2025-12-29,Europe,UK,Online,Vomero 18,Running,Men,9,Blue,1,150,20,120.0,120.0,62.5,57.5,4.5,No,Credit Card,12,Dec,4,2025-12,False
+NK515,2025-02-04,North America,USA,Retail Store,Sabrina 3,Basketball,Women,9,Black,2,120,15,102.0,0.0,0.0,0.0,3.5,Yes,PayPal,2,Feb,1,2025-02,True
+NK516,2025-04-15,Asia-Pacific,Japan,Wholesale,Metcon 10,Training,Men,5,Black,1,140,10,126.0,126.0,89.78,36.22,4.0,No,Credit Card,4,Apr,2,2025-04,False
+NK517,2025-06-03,Middle East & Africa,Egypt,Online,Cortez,Lifestyle,Unisex,10,Blue,1,100,25,75.0,75.0,52.22,22.78,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK518,2025-03-06,North America,Mexico,Online,Free Metcon 6,Training,Women,11,Black,1,130,0,130.0,130.0,80.13,49.87,5.0,No,PayPal,3,Mar,1,2025-03,False
+NK519,2025-09-28,Asia-Pacific,India,Online,Air Max 90,Lifestyle,Unisex,5,Black,1,150,0,150.0,150.0,98.65,51.35,4.0,No,UPI,9,Sep,3,2025-09,False
+NK520,2025-01-08,North America,USA,Retail Store,Giannis Immortality 4,Basketball,Men,10,Green,2,90,15,76.5,153.0,108.87,44.13,3.5,No,UPI,1,Jan,1,2025-01,False
+NK521,2025-08-03,Europe,Italy,Retail Store,Metcon 10,Training,Unisex,10,Green,2,150,20,120.0,240.0,158.87,81.13,4.0,No,Credit Card,8,Aug,3,2025-08,False
+NK522,2025-01-08,North America,Canada,Wholesale,Free Metcon 6,Training,Men,10,Red,1,130,0,130.0,0.0,0.0,0.0,4.5,Yes,Credit Card,1,Jan,1,2025-01,True
+NK523,2025-06-08,Middle East & Africa,Saudi Arabia,Online,Dunk Low,Lifestyle,Women,10,Green,1,125,15,106.25,106.25,62.28,43.97,5.0,No,Debit Card,6,Jun,2,2025-06,False
+NK524,2025-06-02,Middle East & Africa,Egypt,Retail Store,Invincible 3,Running,Men,12,Green,1,170,0,170.0,170.0,113.41,56.59,5.0,No,UPI,6,Jun,2,2025-06,False
+NK525,2025-03-18,Europe,France,Online,Free Metcon 6,Training,Women,10,White,1,140,5,133.0,133.0,73.21,59.79,5.0,No,Debit Card,3,Mar,1,2025-03,False
+NK526,2025-05-12,North America,Mexico,Retail Store,Air Max 270,Lifestyle,Men,10,Blue,2,160,5,152.0,304.0,170.6,133.4,4.5,No,Credit Card,5,May,2,2025-05,False
+NK527,2025-11-06,Asia-Pacific,Japan,Online,Air Max 270,Lifestyle,Unisex,6,Green,1,170,20,136.0,136.0,84.1,51.9,4.5,No,UPI,11,Nov,4,2025-11,False
+NK528,2025-05-22,North America,Mexico,Online,Structure 25,Running,Unisex,9,Red,1,140,15,119.0,119.0,68.4,50.6,5.0,No,UPI,5,May,2,2025-05,False
+NK529,2025-02-17,North America,Mexico,Online,KD 18,Basketball,Women,8,Red,1,160,10,144.0,144.0,98.27,45.73,3.5,No,Debit Card,2,Feb,1,2025-02,False
+NK530,2025-10-02,North America,Mexico,Online,Giannis Immortality 4,Basketball,Men,9,White,1,90,5,85.5,85.5,51.76,33.74,4.5,No,Credit Card,10,Oct,4,2025-10,False
+NK531,2025-05-21,Asia-Pacific,Australia,Wholesale,Free Metcon 6,Training,Women,5,Red,1,130,0,130.0,130.0,90.54,39.46,4.5,No,Credit Card,5,May,2,2025-05,False
+NK532,2025-11-03,Latin America,Argentina,Online,Giannis Immortality 4,Basketball,Unisex,6,Blue,2,90,15,76.5,153.0,108.81,44.19,4.0,No,UPI,11,Nov,4,2025-11,False
+NK533,2025-09-06,Latin America,Argentina,Online,Air Max 90,Lifestyle,Men,13,Blue,1,130,0,130.0,130.0,84.31,45.69,5.0,No,Credit Card,9,Sep,3,2025-09,False
+NK534,2025-02-24,Europe,Spain,Online,Air Max 270,Lifestyle,Men,8,Grey,2,150,15,127.5,255.0,148.06,106.94,4.0,No,Credit Card,2,Feb,1,2025-02,False
+NK535,2025-11-17,North America,Mexico,Retail Store,Vomero 18,Running,Men,9,Red,2,150,10,135.0,270.0,184.73,85.27,4.5,No,Debit Card,11,Nov,4,2025-11,False
+NK536,2025-06-16,Latin America,Argentina,Online,Air Force 1,Lifestyle,Women,9,Black,1,140,5,133.0,133.0,90.6,42.4,5.0,No,Credit Card,6,Jun,2,2025-06,False
+NK537,2025-04-19,North America,Mexico,Online,Dunk Low,Lifestyle,Unisex,5,Blue,2,125,25,93.75,187.5,120.14,67.36,3.5,No,UPI,4,Apr,2,2025-04,False
+NK538,2025-08-17,Asia-Pacific,South Korea,Online,Dunk Low,Lifestyle,Women,13,Green,3,125,20,100.0,300.0,215.81,84.19,5.0,No,Credit Card,8,Aug,3,2025-08,False
+NK539,2025-04-15,Asia-Pacific,Australia,Online,Air Force 1,Lifestyle,Men,6,Black,1,110,0,110.0,110.0,75.45,34.55,4.5,No,UPI,4,Apr,2,2025-04,False
+NK540,2025-08-09,Middle East & Africa,Egypt,Online,Free Metcon 6,Training,Men,12,White,1,130,5,123.5,0.0,0.0,0.0,4.0,Yes,PayPal,8,Aug,3,2025-08,True
+NK541,2025-11-20,Europe,UK,Retail Store,Invincible 3,Running,Women,11,Blue,1,180,25,135.0,135.0,91.95,43.05,4.5,No,Debit Card,11,Nov,4,2025-11,False
+NK542,2025-03-14,North America,USA,Online,Giannis Immortality 4,Basketball,Men,9,Green,1,90,10,81.0,81.0,43.51,37.49,5.0,No,UPI,3,Mar,1,2025-03,False
+NK543,2025-12-01,Latin America,Chile,Retail Store,Invincible 3,Running,Women,11,Blue,4,190,25,142.5,570.0,318.2,251.8,4.5,No,PayPal,12,Dec,4,2025-12,False
+NK544,2025-12-28,Asia-Pacific,Singapore,Retail Store,Air Max 270,Lifestyle,Unisex,12,Blue,2,170,20,136.0,272.0,145.02,126.98,5.0,No,UPI,12,Dec,4,2025-12,False
+NK545,2025-08-30,Europe,Germany,Retail Store,Free Metcon 6,Training,Women,11,Green,1,120,10,108.0,108.0,72.41,35.59,4.5,No,PayPal,8,Aug,3,2025-08,False
+NK546,2025-06-29,Middle East & Africa,Saudi Arabia,Wholesale,Metcon 10,Training,Women,12,Green,1,150,20,120.0,120.0,80.99,39.01,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK547,2025-04-17,Asia-Pacific,South Korea,Online,Dunk Low,Lifestyle,Women,10,White,1,135,20,108.0,108.0,73.93,34.07,5.0,No,Debit Card,4,Apr,2,2025-04,False
+NK548,2025-01-13,Asia-Pacific,Australia,Wholesale,Air Force 1,Lifestyle,Men,7,White,1,120,10,108.0,108.0,61.38,46.62,5.0,No,UPI,1,Jan,1,2025-01,False
+NK549,2025-07-15,North America,Canada,Online,Air Max 270,Lifestyle,Women,6,Black,1,150,25,112.5,112.5,65.58,46.92,4.0,No,Credit Card,7,Jul,3,2025-07,False
+NK550,2025-07-15,Asia-Pacific,India,Online,Structure 25,Running,Women,10,White,2,160,15,136.0,272.0,189.67,82.33,4.5,No,UPI,7,Jul,3,2025-07,False
+NK551,2025-07-30,Europe,Italy,Retail Store,Invincible 3,Running,Women,13,Grey,1,170,5,161.5,161.5,98.15,63.35,4.5,No,Credit Card,7,Jul,3,2025-07,False
+NK552,2025-04-20,North America,USA,Online,Dunk Low,Lifestyle,Men,10,Blue,3,115,20,92.0,276.0,195.74,80.26,5.0,No,PayPal,4,Apr,2,2025-04,False
+NK553,2025-11-25,Asia-Pacific,Australia,Online,Dunk Low,Lifestyle,Women,7,Green,1,125,0,125.0,125.0,66.15,58.85,5.0,No,UPI,11,Nov,4,2025-11,False
+NK554,2025-04-01,Middle East & Africa,South Africa,Retail Store,Cortez,Lifestyle,Men,12,Blue,1,100,10,90.0,90.0,47.65,42.35,5.0,No,PayPal,4,Apr,2,2025-04,False
+NK555,2025-08-28,Middle East & Africa,UAE,Online,Air Max 270,Lifestyle,Men,10,Black,1,160,10,144.0,144.0,76.14,67.86,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK556,2025-11-21,Asia-Pacific,Japan,Wholesale,Structure 25,Running,Women,11,White,1,140,5,133.0,133.0,78.6,54.4,4.5,No,PayPal,11,Nov,4,2025-11,False
+NK557,2025-02-28,Europe,Italy,Retail Store,KD 18,Basketball,Men,13,Black,1,150,10,135.0,135.0,71.65,63.35,5.0,No,PayPal,2,Feb,1,2025-02,False
+NK558,2025-08-22,Latin America,Chile,Online,Structure 25,Running,Women,6,White,1,160,0,160.0,160.0,88.34,71.66,5.0,No,UPI,8,Aug,3,2025-08,False
+NK559,2025-02-19,North America,USA,Online,KD 18,Basketball,Unisex,5,Red,1,160,0,160.0,160.0,106.04,53.96,4.5,No,Credit Card,2,Feb,1,2025-02,False
+NK560,2025-03-30,Middle East & Africa,Egypt,Retail Store,Sabrina 3,Basketball,Men,10,White,3,130,10,117.0,351.0,199.79,151.21,4.5,No,Credit Card,3,Mar,1,2025-03,False
+NK561,2025-12-07,Asia-Pacific,Japan,Retail Store,Giannis Immortality 4,Basketball,Unisex,8,Black,1,80,0,80.0,80.0,42.89,37.11,4.5,No,PayPal,12,Dec,4,2025-12,False
+NK562,2025-04-27,Latin America,Chile,Retail Store,Dunk Low,Lifestyle,Women,5,Red,1,115,10,103.5,103.5,63.24,40.26,4.5,No,Debit Card,4,Apr,2,2025-04,False
+NK563,2025-06-05,North America,USA,Retail Store,Free Metcon 6,Training,Men,6,Black,1,120,20,96.0,96.0,66.73,29.27,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK564,2025-06-19,Asia-Pacific,Singapore,Online,Metcon 10,Training,Men,7,Green,2,150,15,127.5,255.0,137.67,117.33,4.5,No,UPI,6,Jun,2,2025-06,False
+NK565,2025-07-22,Asia-Pacific,India,Wholesale,Metcon 10,Training,Men,11,Grey,1,170,25,127.5,127.5,83.83,43.67,4.0,No,UPI,7,Jul,3,2025-07,False
+NK566,2025-11-25,North America,Canada,Retail Store,KD 18,Basketball,Men,10,Green,1,160,0,160.0,160.0,105.27,54.73,4.5,No,UPI,11,Nov,4,2025-11,False
+NK567,2025-11-07,Asia-Pacific,Singapore,Online,LeBron 22,Basketball,Unisex,9,Blue,1,190,10,171.0,0.0,0.0,0.0,4.5,Yes,Credit Card,11,Nov,4,2025-11,True
+NK568,2025-06-30,North America,Mexico,Online,Sabrina 3,Basketball,Men,12,White,2,140,0,140.0,280.0,153.92,126.08,4.0,No,Credit Card,6,Jun,2,2025-06,False
+NK569,2025-04-10,North America,USA,Wholesale,Free Metcon 6,Training,Women,5,Green,2,130,10,117.0,234.0,121.93,112.07,5.0,No,PayPal,4,Apr,2,2025-04,False
+NK570,2025-02-10,Latin America,Argentina,Online,Air Force 1,Lifestyle,Women,13,Grey,1,120,10,108.0,108.0,67.75,40.25,5.0,No,UPI,2,Feb,1,2025-02,False
+NK571,2025-05-22,Middle East & Africa,Egypt,Online,Air Max 90,Lifestyle,Men,5,Blue,1,150,10,135.0,135.0,94.87,40.13,4.5,No,UPI,5,May,2,2025-05,False
+NK572,2025-03-15,North America,USA,Retail Store,Air Max 90,Lifestyle,Women,6,Blue,2,120,10,108.0,216.0,149.21,66.79,4.0,No,Debit Card,3,Mar,1,2025-03,False
+NK573,2025-11-23,Asia-Pacific,Singapore,Online,Invincible 3,Running,Women,6,Grey,3,180,10,162.0,486.0,310.97,175.03,3.5,No,PayPal,11,Nov,4,2025-11,False
+NK574,2025-05-02,Middle East & Africa,Saudi Arabia,Retail Store,Giannis Immortality 4,Basketball,Men,5,Black,1,90,15,76.5,76.5,41.77,34.73,4.0,No,Credit Card,5,May,2,2025-05,False
+NK575,2025-08-22,North America,USA,Online,Sabrina 3,Basketball,Men,13,White,1,130,15,110.5,110.5,62.75,47.75,4.5,No,UPI,8,Aug,3,2025-08,False
+NK576,2025-05-07,Latin America,Brazil,Online,KD 18,Basketball,Men,5,Grey,2,160,10,144.0,288.0,164.7,123.3,5.0,No,Debit Card,5,May,2,2025-05,False
+NK577,2025-08-09,Latin America,Argentina,Online,Free Metcon 6,Training,Men,8,Green,1,120,0,120.0,120.0,86.14,33.86,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK578,2025-06-22,Europe,Italy,Retail Store,Air Max 270,Lifestyle,Unisex,12,Green,1,150,10,135.0,135.0,75.29,59.71,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK579,2025-12-08,North America,Canada,Online,Air Max 90,Lifestyle,Women,5,White,1,130,20,104.0,104.0,71.15,32.85,4.0,No,Debit Card,12,Dec,4,2025-12,False
+NK580,2025-09-22,Asia-Pacific,India,Online,Dunk Low,Lifestyle,Women,13,Grey,2,125,15,106.25,212.5,127.26,85.24,4.5,No,UPI,9,Sep,3,2025-09,False
+NK581,2025-12-04,Asia-Pacific,India,Wholesale,LeBron 22,Basketball,Men,7,White,2,190,15,161.5,323.0,225.76,97.24,5.0,No,Credit Card,12,Dec,4,2025-12,False
+NK582,2025-12-02,North America,Mexico,Online,Structure 25,Running,Men,9,Black,2,130,20,104.0,208.0,143.42,64.58,5.0,No,Debit Card,12,Dec,4,2025-12,False
+NK583,2025-09-18,Asia-Pacific,South Korea,Online,Dunk Low,Lifestyle,Women,13,Green,1,135,25,101.25,101.25,70.09,31.16,4.5,No,PayPal,9,Sep,3,2025-09,False
+NK584,2025-03-08,Europe,Spain,Retail Store,Metcon 10,Training,Men,6,Grey,2,150,10,135.0,270.0,157.98,112.02,4.0,No,UPI,3,Mar,1,2025-03,False
+NK585,2025-07-28,Europe,Italy,Retail Store,Free Metcon 6,Training,Women,12,White,1,130,5,123.5,123.5,82.89,40.61,4.0,No,Credit Card,7,Jul,3,2025-07,False
+NK586,2025-09-11,Latin America,Chile,Retail Store,Sabrina 3,Basketball,Unisex,9,Black,2,130,15,110.5,221.0,136.0,85.0,4.0,No,UPI,9,Sep,3,2025-09,False
+NK587,2025-04-20,Asia-Pacific,Australia,Wholesale,Air Force 1,Lifestyle,Women,5,Grey,2,130,5,123.5,247.0,156.17,90.83,4.0,No,Credit Card,4,Apr,2,2025-04,False
+NK588,2025-12-04,Middle East & Africa,South Africa,Online,Structure 25,Running,Women,12,Black,2,140,10,126.0,252.0,156.2,95.8,4.5,No,UPI,12,Dec,4,2025-12,False
+NK589,2025-06-13,North America,USA,Online,Cortez,Lifestyle,Unisex,9,Green,1,90,15,76.5,76.5,50.33,26.17,4.5,No,Debit Card,6,Jun,2,2025-06,False
+NK590,2025-02-22,Latin America,Brazil,Online,Dunk Low,Lifestyle,Men,10,White,1,145,15,123.25,123.25,84.82,38.43,3.5,No,PayPal,2,Feb,1,2025-02,False
+NK591,2025-10-23,Asia-Pacific,Singapore,Wholesale,LeBron 22,Basketball,Men,11,Red,1,210,25,157.5,157.5,111.22,46.28,4.5,No,Debit Card,10,Oct,4,2025-10,False
+NK592,2025-03-31,Europe,France,Retail Store,Giannis Immortality 4,Basketball,Women,12,Blue,1,80,15,68.0,68.0,43.98,24.02,4.0,No,UPI,3,Mar,1,2025-03,False
+NK593,2025-09-06,Middle East & Africa,Egypt,Retail Store,Structure 25,Running,Men,10,Black,2,140,0,140.0,280.0,162.55,117.45,4.5,No,UPI,9,Sep,3,2025-09,False
+NK594,2025-10-26,Latin America,Colombia,Retail Store,Metcon 10,Training,Unisex,6,Green,1,150,0,150.0,150.0,95.32,54.68,4.5,No,Credit Card,10,Oct,4,2025-10,False
+NK595,2025-07-21,Europe,France,Retail Store,Cortez,Lifestyle,Women,6,Green,1,120,5,114.0,114.0,66.9,47.1,3.5,No,PayPal,7,Jul,3,2025-07,False
+NK596,2025-02-02,North America,Canada,Retail Store,Giannis Immortality 4,Basketball,Women,7,Blue,1,90,20,72.0,72.0,47.22,24.78,5.0,No,Credit Card,2,Feb,1,2025-02,False
+NK597,2025-12-23,North America,Mexico,Retail Store,Giannis Immortality 4,Basketball,Unisex,7,White,1,100,25,75.0,75.0,40.73,34.27,4.0,No,Credit Card,12,Dec,4,2025-12,False
+NK598,2025-08-23,Europe,France,Retail Store,Giannis Immortality 4,Basketball,Unisex,6,White,2,100,10,90.0,180.0,117.12,62.88,4.5,No,PayPal,8,Aug,3,2025-08,False
+NK599,2025-08-11,Middle East & Africa,Egypt,Online,Giannis Immortality 4,Basketball,Women,5,Red,1,80,5,76.0,76.0,41.43,34.57,4.5,No,UPI,8,Aug,3,2025-08,False
+NK600,2025-04-21,Europe,Spain,Retail Store,Air Max 90,Lifestyle,Unisex,6,Grey,1,130,10,117.0,117.0,71.71,45.29,3.5,No,Credit Card,4,Apr,2,2025-04,False
+NK601,2025-11-29,North America,USA,Wholesale,Metcon 10,Training,Men,12,Blue,1,150,10,135.0,135.0,81.28,53.72,4.5,No,Debit Card,11,Nov,4,2025-11,False
+NK602,2025-02-10,North America,Mexico,Retail Store,Giannis Immortality 4,Basketball,Unisex,6,Blue,2,80,0,80.0,160.0,84.22,75.78,4.0,No,Debit Card,2,Feb,1,2025-02,False
+NK603,2025-07-26,North America,Mexico,Wholesale,Vomero 18,Running,Women,5,Black,1,150,10,135.0,135.0,83.54,51.46,4.0,No,Credit Card,7,Jul,3,2025-07,False
+NK604,2025-06-12,Europe,Germany,Online,Sabrina 3,Basketball,Women,11,Grey,1,140,25,105.0,105.0,63.32,41.68,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK605,2025-07-14,North America,Mexico,Online,Sabrina 3,Basketball,Men,13,Grey,3,130,10,117.0,351.0,211.51,139.49,4.5,No,Debit Card,7,Jul,3,2025-07,False
+NK606,2025-03-22,Europe,Italy,Retail Store,Sabrina 3,Basketball,Men,9,Black,1,130,25,97.5,97.5,56.86,40.64,4.0,No,UPI,3,Mar,1,2025-03,False
+NK607,2025-07-26,Asia-Pacific,Japan,Retail Store,Invincible 3,Running,Men,5,Black,1,200,10,180.0,180.0,106.25,73.75,5.0,No,PayPal,7,Jul,3,2025-07,False
+NK608,2025-02-07,Asia-Pacific,Australia,Retail Store,Giannis Immortality 4,Basketball,Unisex,11,Green,1,100,5,95.0,95.0,50.9,44.1,4.0,No,UPI,2,Feb,1,2025-02,False
+NK609,2025-06-07,North America,USA,Online,Dunk Low,Lifestyle,Unisex,7,Grey,1,125,20,100.0,100.0,52.52,47.48,4.0,No,PayPal,6,Jun,2,2025-06,False
+NK610,2025-05-07,Middle East & Africa,UAE,Online,LeBron 22,Basketball,Women,12,Blue,2,190,15,161.5,323.0,213.77,109.23,4.5,No,Credit Card,5,May,2,2025-05,False
+NK611,2025-09-24,Europe,Germany,Retail Store,Sabrina 3,Basketball,Unisex,7,Red,2,140,0,140.0,280.0,196.74,83.26,4.5,No,PayPal,9,Sep,3,2025-09,False
+NK612,2025-10-31,Asia-Pacific,South Korea,Online,Dunk Low,Lifestyle,Women,6,Black,3,125,0,125.0,375.0,237.64,137.36,4.5,No,UPI,10,Oct,4,2025-10,False
+NK613,2025-08-22,North America,Canada,Online,Dunk Low,Lifestyle,Men,13,Blue,1,125,15,106.25,106.25,70.61,35.64,4.5,No,Credit Card,8,Aug,3,2025-08,False
+NK614,2025-09-06,North America,USA,Retail Store,Dunk Low,Lifestyle,Unisex,7,White,2,145,0,145.0,290.0,172.74,117.26,4.0,No,UPI,9,Sep,3,2025-09,False
+NK615,2025-02-02,Middle East & Africa,Saudi Arabia,Retail Store,LeBron 22,Basketball,Men,5,Blue,2,200,0,200.0,0.0,0.0,0.0,4.0,Yes,Credit Card,2,Feb,1,2025-02,True
+NK616,2025-05-13,Asia-Pacific,India,Online,Metcon 10,Training,Unisex,8,Blue,1,160,15,136.0,136.0,75.7,60.3,4.5,No,Debit Card,5,May,2,2025-05,False
+NK617,2025-12-09,Middle East & Africa,Saudi Arabia,Online,Pegasus 41,Running,Women,6,Grey,2,140,5,133.0,266.0,149.46,116.54,4.5,No,Credit Card,12,Dec,4,2025-12,False
+NK618,2025-09-22,Asia-Pacific,Japan,Online,Free Metcon 6,Training,Women,7,Black,1,130,10,117.0,117.0,64.16,52.84,4.5,No,PayPal,9,Sep,3,2025-09,False
+NK619,2025-09-16,North America,Canada,Online,Dunk Low,Lifestyle,Women,5,Blue,4,125,10,112.5,450.0,281.91,168.09,5.0,No,PayPal,9,Sep,3,2025-09,False
+NK620,2025-08-16,Europe,Germany,Retail Store,KD 18,Basketball,Women,10,Red,1,160,10,144.0,0.0,0.0,0.0,3.5,Yes,Debit Card,8,Aug,3,2025-08,True
+NK621,2025-03-26,North America,Mexico,Wholesale,Dunk Low,Lifestyle,Men,13,Grey,1,125,15,106.25,106.25,72.12,34.13,3.5,No,Debit Card,3,Mar,1,2025-03,False
+NK622,2025-11-20,Asia-Pacific,Singapore,Wholesale,Giannis Immortality 4,Basketball,Women,7,White,1,100,15,85.0,0.0,0.0,0.0,4.5,Yes,PayPal,11,Nov,4,2025-11,True
+NK623,2025-05-12,North America,Mexico,Wholesale,Free Metcon 6,Training,Women,8,Red,1,130,5,123.5,123.5,77.42,46.08,4.5,No,Debit Card,5,May,2,2025-05,False
+NK624,2025-06-24,Asia-Pacific,Australia,Online,LeBron 22,Basketball,Unisex,5,Blue,1,200,0,200.0,200.0,123.24,76.76,4.5,No,Credit Card,6,Jun,2,2025-06,False
+NK625,2025-10-08,North America,Mexico,Online,Air Force 1,Lifestyle,Men,7,Grey,1,140,25,105.0,105.0,57.42,47.58,5.0,No,Credit Card,10,Oct,4,2025-10,False
+NK626,2025-09-30,Europe,Germany,Online,Air Max 90,Lifestyle,Men,5,Green,1,140,10,126.0,126.0,87.53,38.47,4.0,No,UPI,9,Sep,3,2025-09,False
+NK627,2025-07-21,Asia-Pacific,Singapore,Retail Store,Sabrina 3,Basketball,Women,5,Black,3,150,0,150.0,450.0,243.98,206.02,4.0,No,Credit Card,7,Jul,3,2025-07,False
+NK628,2025-04-22,Middle East & Africa,South Africa,Online,Dunk Low,Lifestyle,Men,10,White,1,135,10,121.5,121.5,75.49,46.01,4.0,No,PayPal,4,Apr,2,2025-04,False
+NK629,2025-07-26,North America,USA,Retail Store,Air Max 90,Lifestyle,Men,9,Red,1,130,0,130.0,130.0,81.25,48.75,5.0,No,Credit Card,7,Jul,3,2025-07,False
+NK630,2025-07-16,North America,Mexico,Online,Vomero 18,Running,Women,7,Blue,2,160,10,144.0,288.0,175.87,112.13,5.0,No,UPI,7,Jul,3,2025-07,False
+NK631,2025-05-15,North America,USA,Online,KD 18,Basketball,Men,7,White,1,150,25,112.5,112.5,62.56,49.94,4.5,No,Debit Card,5,May,2,2025-05,False
+NK632,2025-12-22,Asia-Pacific,Japan,Retail Store,Metcon 10,Training,Women,13,Grey,1,170,10,153.0,153.0,106.66,46.34,3.5,No,Credit Card,12,Dec,4,2025-12,False
+NK633,2025-09-07,North America,Canada,Online,Metcon 10,Training,Women,8,White,2,170,10,153.0,306.0,186.13,119.87,5.0,No,Credit Card,9,Sep,3,2025-09,False
+NK634,2025-10-28,Asia-Pacific,Japan,Online,Pegasus 41,Running,Women,9,Blue,2,140,25,105.0,210.0,117.93,92.07,4.5,No,UPI,10,Oct,4,2025-10,False
+NK635,2025-11-10,Europe,Germany,Wholesale,Air Force 1,Lifestyle,Unisex,7,Black,4,120,10,108.0,432.0,279.93,152.07,4.5,No,PayPal,11,Nov,4,2025-11,False
+NK636,2025-12-02,North America,USA,Retail Store,LeBron 22,Basketball,Women,10,Grey,1,190,10,171.0,171.0,117.15,53.85,5.0,No,Debit Card,12,Dec,4,2025-12,False
+NK637,2025-10-31,Europe,Italy,Online,Air Max 270,Lifestyle,Men,9,Black,2,160,5,152.0,304.0,193.09,110.91,5.0,No,UPI,10,Oct,4,2025-10,False
+NK638,2025-09-13,Latin America,Brazil,Online,Giannis Immortality 4,Basketball,Men,13,Grey,1,100,15,85.0,85.0,58.69,26.31,4.5,No,Debit Card,9,Sep,3,2025-09,False
+NK639,2025-12-14,Latin America,Argentina,Wholesale,Metcon 10,Training,Unisex,11,Green,2,150,0,150.0,300.0,198.23,101.77,3.5,No,Debit Card,12,Dec,4,2025-12,False
+NK640,2025-08-15,Europe,France,Retail Store,Cortez,Lifestyle,Men,7,Blue,1,100,10,90.0,90.0,51.79,38.21,5.0,No,UPI,8,Aug,3,2025-08,False
+NK641,2025-10-07,Middle East & Africa,South Africa,Retail Store,Vomero 18,Running,Men,8,Green,3,150,10,135.0,405.0,272.7,132.3,4.5,No,Credit Card,10,Oct,4,2025-10,False
+NK642,2025-05-14,Europe,Spain,Online,Cortez,Lifestyle,Women,10,Red,1,110,15,93.5,93.5,64.19,29.31,4.5,No,PayPal,5,May,2,2025-05,False
+NK643,2025-07-27,Asia-Pacific,India,Online,Cortez,Lifestyle,Women,10,Red,2,100,0,100.0,200.0,126.83,73.17,5.0,No,Credit Card,7,Jul,3,2025-07,False
+NK644,2025-02-01,Middle East & Africa,Egypt,Online,LeBron 22,Basketball,Men,8,Red,2,190,0,190.0,380.0,201.12,178.88,4.5,No,Credit Card,2,Feb,1,2025-02,False
+NK645,2025-05-22,North America,Canada,Online,LeBron 22,Basketball,Men,12,Black,1,190,5,180.5,180.5,103.29,77.21,4.5,No,Debit Card,5,May,2,2025-05,False
+NK646,2025-08-03,Middle East & Africa,UAE,Wholesale,Metcon 10,Training,Men,11,Green,3,150,5,142.5,427.5,250.51,176.99,5.0,No,Credit Card,8,Aug,3,2025-08,False
+NK647,2025-01-12,North America,USA,Wholesale,Invincible 3,Running,Women,10,Black,1,180,0,180.0,180.0,103.75,76.25,5.0,No,Credit Card,1,Jan,1,2025-01,False
+NK648,2025-12-23,North America,Mexico,Retail Store,Sabrina 3,Basketball,Men,8,Blue,1,120,5,114.0,114.0,60.09,53.91,5.0,No,PayPal,12,Dec,4,2025-12,False
+NK649,2025-09-16,Middle East & Africa,Egypt,Retail Store,Pegasus 41,Running,Women,10,Grey,1,140,5,133.0,133.0,72.87,60.13,4.5,No,UPI,9,Sep,3,2025-09,False
+NK650,2025-11-23,Asia-Pacific,Japan,Online,Air Max 90,Lifestyle,Men,13,Grey,3,140,20,112.0,336.0,205.1,130.9,5.0,No,Debit Card,11,Nov,4,2025-11,False
+NK651,2025-01-08,North America,USA,Retail Store,Pegasus 41,Running,Men,9,Black,1,150,10,135.0,135.0,83.36,51.64,5.0,No,Credit Card,1,Jan,1,2025-01,False
+NK652,2025-03-25,Europe,Germany,Retail Store,Air Max 90,Lifestyle,Women,9,Green,1,130,5,123.5,123.5,86.14,37.36,5.0,No,UPI,3,Mar,1,2025-03,False
+NK653,2025-12-15,Europe,Spain,Online,Invincible 3,Running,Men,8,Red,1,200,15,170.0,170.0,121.36,48.64,4.0,No,UPI,12,Dec,4,2025-12,False
+NK654,2025-07-16,Latin America,Brazil,Online,Dunk Low,Lifestyle,Men,13,Green,1,125,10,112.5,112.5,79.18,33.32,4.0,No,Credit Card,7,Jul,3,2025-07,False
+NK655,2025-06-05,Latin America,Argentina,Online,KD 18,Basketball,Men,8,Black,2,160,5,152.0,304.0,175.95,128.05,5.0,No,Credit Card,6,Jun,2,2025-06,False
+NK656,2025-06-08,Asia-Pacific,Singapore,Retail Store,Air Max 270,Lifestyle,Women,9,Black,1,160,15,136.0,136.0,81.68,54.32,4.5,No,Debit Card,6,Jun,2,2025-06,False
+NK657,2025-11-16,North America,Canada,Retail Store,Air Force 1,Lifestyle,Men,13,White,1,120,20,96.0,96.0,58.59,37.41,5.0,No,Debit Card,11,Nov,4,2025-11,False
+NK658,2025-01-27,Europe,Spain,Online,Pegasus 41,Running,Men,5,Blue,3,140,5,133.0,399.0,283.95,115.05,4.0,No,Debit Card,1,Jan,1,2025-01,False
+NK659,2025-09-03,Asia-Pacific,Japan,Online,Air Force 1,Lifestyle,Men,7,Red,1,130,5,123.5,123.5,74.85,48.65,4.5,No,PayPal,9,Sep,3,2025-09,False
+NK660,2025-04-08,Asia-Pacific,Singapore,Wholesale,LeBron 22,Basketball,Women,9,Red,1,200,5,190.0,190.0,119.57,70.43,5.0,No,PayPal,4,Apr,2,2025-04,False
+NK661,2025-09-23,Asia-Pacific,Singapore,Retail Store,Giannis Immortality 4,Basketball,Unisex,7,Red,3,100,10,90.0,270.0,161.72,108.28,5.0,No,PayPal,9,Sep,3,2025-09,False
+NK662,2025-01-04,Asia-Pacific,Japan,Online,KD 18,Basketball,Men,7,Blue,3,160,15,136.0,408.0,223.25,184.75,4.0,No,Debit Card,1,Jan,1,2025-01,False
+NK663,2025-09-17,North America,Canada,Online,Invincible 3,Running,Men,6,Black,1,180,20,144.0,144.0,94.65,49.35,4.5,No,UPI,9,Sep,3,2025-09,False
+NK664,2025-11-28,North America,Mexico,Online,Giannis Immortality 4,Basketball,Men,10,Green,3,110,10,99.0,297.0,189.45,107.55,4.0,No,Credit Card,11,Nov,4,2025-11,False
+NK665,2025-03-01,Middle East & Africa,Saudi Arabia,Retail Store,Pegasus 41,Running,Women,7,Black,2,160,0,160.0,320.0,217.98,102.02,3.5,No,Credit Card,3,Mar,1,2025-03,False
+NK666,2025-01-12,Latin America,Chile,Online,Metcon 10,Training,Men,12,White,1,150,5,142.5,142.5,98.77,43.73,4.0,No,Credit Card,1,Jan,1,2025-01,False
+NK667,2025-02-12,Latin America,Colombia,Online,Structure 25,Running,Men,7,Green,4,140,5,133.0,532.0,318.25,213.75,4.5,No,Credit Card,2,Feb,1,2025-02,False
+NK668,2025-01-02,North America,USA,Online,Air Force 1,Lifestyle,Women,10,White,1,120,0,120.0,120.0,64.82,55.18,4.0,No,Debit Card,1,Jan,1,2025-01,False
+NK669,2025-08-23,North America,Canada,Online,Cortez,Lifestyle,Men,9,Green,1,120,15,102.0,102.0,71.37,30.63,4.5,No,PayPal,8,Aug,3,2025-08,False
+NK670,2025-09-18,North America,USA,Online,Cortez,Lifestyle,Women,8,Blue,2,100,10,90.0,180.0,105.81,74.19,4.0,No,UPI,9,Sep,3,2025-09,False
+NK671,2025-09-18,Europe,UK,Retail Store,Air Force 1,Lifestyle,Women,8,Blue,1,120,15,102.0,102.0,66.67,35.33,4.5,No,Credit Card,9,Sep,3,2025-09,False
+NK672,2025-02-19,Europe,Italy,Online,Cortez,Lifestyle,Women,12,White,1,110,15,93.5,93.5,57.61,35.89,4.0,No,Credit Card,2,Feb,1,2025-02,False
+NK673,2025-01-07,Latin America,Colombia,Online,Invincible 3,Running,Men,12,Green,1,170,5,161.5,161.5,108.51,52.99,4.0,No,PayPal,1,Jan,1,2025-01,False
+NK674,2025-11-05,Latin America,Colombia,Online,Invincible 3,Running,Women,10,Green,1,180,5,171.0,171.0,117.71,53.29,5.0,No,UPI,11,Nov,4,2025-11,False
+NK675,2025-05-05,North America,USA,Online,Invincible 3,Running,Men,9,Red,1,190,0,190.0,190.0,131.24,58.76,4.5,No,PayPal,5,May,2,2025-05,False
+NK676,2025-02-15,North America,Mexico,Online,Pegasus 41,Running,Women,13,Green,2,150,0,150.0,300.0,184.91,115.09,4.5,No,UPI,2,Feb,1,2025-02,False
+NK677,2025-06-06,Latin America,Chile,Retail Store,Structure 25,Running,Women,6,Grey,1,140,15,119.0,119.0,75.34,43.66,5.0,No,UPI,6,Jun,2,2025-06,False
+NK678,2025-04-07,North America,Canada,Retail Store,LeBron 22,Basketball,Men,12,Green,3,210,15,178.5,535.5,378.96,156.54,3.5,No,Debit Card,4,Apr,2,2025-04,False
+NK679,2025-01-09,North America,Mexico,Online,Dunk Low,Lifestyle,Women,11,Grey,2,125,0,125.0,250.0,144.91,105.09,5.0,No,Debit Card,1,Jan,1,2025-01,False
+NK680,2025-05-16,Europe,Italy,Retail Store,Sabrina 3,Basketball,Unisex,6,Green,2,130,10,117.0,234.0,151.54,82.46,5.0,No,Credit Card,5,May,2,2025-05,False
+NK681,2025-04-05,Europe,France,Retail Store,KD 18,Basketball,Unisex,10,Red,1,160,10,144.0,144.0,90.06,53.94,4.5,No,UPI,4,Apr,2,2025-04,False
+NK682,2025-03-04,Latin America,Argentina,Retail Store,Vomero 18,Running,Women,12,Grey,1,160,5,152.0,152.0,84.25,67.75,4.5,No,Debit Card,3,Mar,1,2025-03,False
+NK683,2025-06-28,Europe,Spain,Wholesale,Giannis Immortality 4,Basketball,Men,8,Black,2,90,5,85.5,171.0,98.02,72.98,4.0,No,UPI,6,Jun,2,2025-06,False
+NK684,2025-06-27,Asia-Pacific,Japan,Retail Store,Structure 25,Running,Men,13,Red,2,150,5,142.5,285.0,196.73,88.27,3.5,No,UPI,6,Jun,2,2025-06,False
+NK685,2025-09-28,Latin America,Brazil,Online,Sabrina 3,Basketball,Men,5,Black,1,150,10,135.0,135.0,88.52,46.48,4.5,No,UPI,9,Sep,3,2025-09,False
+NK686,2025-10-14,Asia-Pacific,South Korea,Retail Store,Sabrina 3,Basketball,Men,6,Grey,2,130,15,110.5,221.0,135.06,85.94,4.5,No,Credit Card,10,Oct,4,2025-10,False
+NK687,2025-09-30,Asia-Pacific,Singapore,Retail Store,Air Force 1,Lifestyle,Men,6,Blue,1,120,5,114.0,114.0,63.05,50.95,4.5,No,Debit Card,9,Sep,3,2025-09,False
+NK688,2025-04-12,Asia-Pacific,India,Online,Air Max 270,Lifestyle,Men,10,Red,1,150,10,135.0,135.0,85.85,49.15,4.5,No,UPI,4,Apr,2,2025-04,False
+NK689,2025-08-07,Asia-Pacific,India,Retail Store,Air Force 1,Lifestyle,Unisex,11,Grey,1,120,0,120.0,120.0,64.83,55.17,3.5,No,Credit Card,8,Aug,3,2025-08,False
+NK690,2025-05-30,Europe,Spain,Retail Store,Free Metcon 6,Training,Unisex,12,Grey,1,130,10,117.0,117.0,74.34,42.66,5.0,No,Credit Card,5,May,2,2025-05,False
+NK691,2025-05-18,Asia-Pacific,Australia,Online,Giannis Immortality 4,Basketball,Men,11,Black,3,100,10,90.0,270.0,168.3,101.7,4.5,No,PayPal,5,May,2,2025-05,False
+NK692,2025-12-26,North America,Mexico,Retail Store,Invincible 3,Running,Men,13,White,2,190,15,161.5,323.0,215.57,107.43,4.0,No,Debit Card,12,Dec,4,2025-12,False
+NK693,2025-05-21,Europe,Spain,Online,LeBron 22,Basketball,Women,9,Black,2,200,15,170.0,340.0,225.94,114.06,4.5,No,PayPal,5,May,2,2025-05,False
+NK694,2025-04-26,Asia-Pacific,South Korea,Wholesale,Air Force 1,Lifestyle,Unisex,10,Blue,2,120,0,120.0,240.0,166.74,73.26,5.0,No,Debit Card,4,Apr,2,2025-04,False
+NK695,2025-11-22,Europe,Spain,Retail Store,Cortez,Lifestyle,Men,6,Grey,3,120,5,114.0,342.0,232.54,109.46,5.0,No,Credit Card,11,Nov,4,2025-11,False
+NK696,2025-09-15,Asia-Pacific,Singapore,Online,Air Max 90,Lifestyle,Women,5,Green,3,130,25,97.5,292.5,202.54,89.96,5.0,No,Debit Card,9,Sep,3,2025-09,False
+NK697,2025-11-04,Asia-Pacific,Japan,Retail Store,LeBron 22,Basketball,Women,11,White,2,190,5,180.5,0.0,0.0,0.0,5.0,Yes,Debit Card,11,Nov,4,2025-11,True
+NK698,2025-04-05,Europe,UK,Online,Structure 25,Running,Unisex,11,Black,1,150,0,150.0,150.0,96.99,53.01,4.0,No,UPI,4,Apr,2,2025-04,False
+NK699,2025-05-04,Europe,Spain,Retail Store,Dunk Low,Lifestyle,Men,7,Green,1,125,10,112.5,112.5,65.66,46.84,4.5,No,PayPal,5,May,2,2025-05,False
+NK700,2025-01-24,North America,Canada,Online,Sabrina 3,Basketball,Men,7,Grey,1,120,0,120.0,120.0,72.92,47.08,4.0,No,UPI,1,Jan,1,2025-01,False

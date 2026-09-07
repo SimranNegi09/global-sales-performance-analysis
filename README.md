@@ -91,11 +91,6 @@ An interactive Power BI dashboard was created to visualize sales performance acr
 
 ![Executive Dashboard](visuals/dashboard_preview.png)
 
-### 🔗 Interactive Dashboard
-
-**[View the Interactive Power BI Dashboard](PASTE-YOUR-POWER-BI-LINK-HERE)**
-
-The interactive dashboard allows users to explore the sales data and compare performance across key dimensions.
 
 ## Tools
 
@@ -104,4 +99,4 @@ The interactive dashboard allows users to explore the sales data and compare per
 
 ## Skills Demonstrated
 
-**Data Cleaning • KPI Analysis • Sales Analysis • Product Analysis • Category Analysis • Regional Analysis • Data Visualization • Dashboard Development • Business Insights • Business Recommendations** jk
+**Data Cleaning • KPI Analysis • Sales Analysis • Product Analysis • Category Analysis • Regional Analysis • Data Visualization • Dashboard Development • Business Insights • Business Recommendations**

@@ -87,10 +87,6 @@ The project focuses on turning sales data into **business insights and actionabl
 
 An interactive Power BI dashboard was created to visualize sales performance across **products, categories, and regions**.
 
-### Dashboard Preview
-
-![Executive Dashboard](Nike sales performance dashboard.png)
-
 
 ## Tools
 

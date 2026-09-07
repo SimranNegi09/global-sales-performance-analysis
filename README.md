@@ -89,7 +89,7 @@ An interactive Power BI dashboard was created to visualize sales performance acr
 
 ### Dashboard Preview
 
-![Executive Dashboard](visuals/dashboard_preview.png)
+![Executive Dashboard](Nike sales performance dashboard.png)
 
 
 ## Tools
